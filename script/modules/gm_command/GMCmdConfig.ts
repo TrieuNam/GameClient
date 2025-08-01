@@ -1,0 +1,22 @@
+export var GMCmdConfig = {
+    List: [
+        { key: "additem", name: "添加道具", params: ["道具ID:40000", "数量:100"] },
+        { key: "settask", name: "一键大号", params: ["id:322",] },
+        { key: "ranextstate", name: "开启活动", params: ["活动id:2068"] },
+        { key: "gmgumopagoda", name: "锢魔之塔", params: ["a:-1", "b:3", "c:5"] },
+        { key: "addattr", name: "增加属性", params: ["属性类型:-1", "属性值:2000000"] },
+        { key: "addattrall", name: "增加全部属性", params: ["属性值:2000000"] },
+        { key: "setrolelevel", name: "设置等级", params: ["角色等级:50"] },
+        { key: "addchongzhi", name: "充值", params: ["钻石:60"] },
+        { key: "Battle", name: "战报", params: ["地址:1675231914_0_2"] },
+        { key: "Guide", name: "指引", params: ["指引id:1"] },
+        { key: "StopGuide", name: "停止指引", params: ["不管:1"] },
+        { key: "battletest", name: "挑战怪物组", params: ["组:1"] },
+        { key: "settask", name: "设置当前任务", params: ["任务id:1"] },
+        { key: "copyBattle", name: "复制战报", params: ["复制:1"] },
+        { key: "gmrune", name: "铭文转盘", params: ["a:1", "次数:10", "c:0"] },
+        { key: "Name", name: "改名", params: ["名字:aaa"] },
+        { key: "OpenViewByKey", name: "打开界面", params: ["ModKey:7009"] },
+        { key: "reloadconfig", name: "热更配置", params: ["类型:0"] },
+    ],
+}
