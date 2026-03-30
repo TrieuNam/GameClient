@@ -1,0 +1,97 @@
+
+10021.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+an
+  rotate: false
+  xy: 0, 102
+  size: 133, 72
+  orig: 133, 72
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 176, 134
+  size: 134, 131
+  orig: 134, 131
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 0, 279
+  size: 202, 134
+  orig: 202, 134
+  offset: 0, 0
+  index: -1
+houtui1
+  rotate: true
+  xy: 391, 0
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+houtui2
+  rotate: true
+  xy: 134, 59
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: true
+  xy: 218, 65
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+jinshu
+  rotate: false
+  xy: 311, 50
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+jinshu1
+  rotate: false
+  xy: 311, 142
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+qiantui1
+  rotate: true
+  xy: 402, 157
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+qiantui2
+  rotate: true
+  xy: 402, 75
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 364, 233
+  size: 180, 105
+  orig: 180, 105
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 203, 266
+  size: 160, 147
+  orig: 160, 147
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 0, 175
+  size: 175, 103
+  orig: 175, 103
+  offset: 0, 0
+  index: -1

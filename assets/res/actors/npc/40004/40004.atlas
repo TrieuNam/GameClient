@@ -1,0 +1,90 @@
+
+40004.png
+size: 512,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+erduo1
+  rotate: true
+  xy: 256, 40
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: true
+  xy: 215, 28
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+erduo3
+  rotate: false
+  xy: 288, 5
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+erduo4
+  rotate: false
+  xy: 400, 46
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 344, 40
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 136, 27
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 215, 0
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 359, 9
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 256, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 404, 3
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 0, 0
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 0, 23
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1

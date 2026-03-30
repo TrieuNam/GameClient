@@ -1,0 +1,83 @@
+
+10018.png
+size: 512,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bozi
+  rotate: false
+  xy: 379, 148
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 0, 168
+  size: 207, 79
+  orig: 207, 79
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 0, 0
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 74
+  size: 154, 93
+  orig: 154, 93
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 155, 59
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+toumao
+  rotate: false
+  xy: 241, 84
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 441, 66
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 345, 60
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 241, 38
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: true
+  xy: 131, 10
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 208, 173
+  size: 170, 74
+  orig: 170, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+40012.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bianzi1
+  rotate: true
+  xy: 0, 405
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: true
+  xy: 79, 405
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 174, 308
+  size: 78, 117
+  orig: 78, 117
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 231, 387
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 127
+  size: 139, 119
+  orig: 139, 119
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 140, 0
+  size: 192, 165
+  orig: 192, 165
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: true
+  xy: 61, 330
+  size: 63, 112
+  orig: 63, 112
+  offset: 0, 0
+  index: -1
+shoubi3
+  rotate: true
+  xy: 0, 247
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+shoubi4
+  rotate: true
+  xy: 158, 394
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 347
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 377, 274
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 290, 166
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 144, 217
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 384, 379
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 320, 387
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 292, 308
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1

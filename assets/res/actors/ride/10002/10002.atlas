@@ -1,0 +1,55 @@
+
+10002.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+longtou
+  rotate: true
+  xy: 0, 0
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 213
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 0, 101
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 193, 66
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 98, 58
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 193, 11
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 159, 151
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1

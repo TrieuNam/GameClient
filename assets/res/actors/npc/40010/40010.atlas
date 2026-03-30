@@ -1,0 +1,83 @@
+
+40010.png
+size: 512,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+cao1
+  rotate: false
+  xy: 109, 0
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: true
+  xy: 253, 60
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+cao3
+  rotate: false
+  xy: 162, 8
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 33
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 126, 55
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 203, 1
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 240, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 0, 2
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: true
+  xy: 55, 3
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 64, 44
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: true
+  xy: 191, 58
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1

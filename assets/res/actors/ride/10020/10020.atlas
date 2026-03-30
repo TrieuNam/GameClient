@@ -1,0 +1,90 @@
+
+10020.png
+size: 512,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bozi
+  rotate: false
+  xy: 202, 0
+  size: 144, 87
+  orig: 144, 87
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 57, 4
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 68
+  size: 185, 137
+  orig: 185, 137
+  offset: 0, 0
+  index: -1
+shipin
+  rotate: false
+  xy: 253, 173
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 1
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 99, 10
+  size: 57, 102
+  orig: 57, 102
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 253, 89
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 335, 91
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 347, 17
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 418, 3
+  size: 135, 73
+  orig: 135, 73
+  offset: 0, 0
+  index: -1
+yimo1
+  rotate: true
+  xy: 138, 88
+  size: 165, 114
+  orig: 165, 114
+  offset: 0, 0
+  index: -1
+yimo2
+  rotate: false
+  xy: 347, 139
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1

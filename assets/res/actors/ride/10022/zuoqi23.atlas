@@ -1,0 +1,97 @@
+
+zuoqi23.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+bei
+  rotate: false
+  xy: 0, 204
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 142, 82
+  size: 247, 129
+  orig: 247, 129
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 0, 348
+  size: 263, 91
+  orig: 263, 91
+  offset: 0, 0
+  index: -1
+houtui1
+  rotate: true
+  xy: 179, 19
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+houtui2
+  rotate: false
+  xy: 254, 15
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+qianjiao
+  rotate: true
+  xy: 98, 18
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+qianshangbi
+  rotate: false
+  xy: 412, 263
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+qiantui1
+  rotate: false
+  xy: 142, 232
+  size: 73, 115
+  orig: 73, 115
+  offset: 0, 0
+  index: -1
+qianxiabi
+  rotate: false
+  xy: 412, 347
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 264, 212
+  size: 227, 147
+  orig: 227, 147
+  offset: 0, 0
+  index: -1
+shuijing
+  rotate: true
+  xy: 216, 277
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 11
+  size: 97, 192
+  orig: 97, 192
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 390, 0
+  size: 211, 93
+  orig: 211, 93
+  offset: 0, 0
+  index: -1

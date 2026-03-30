@@ -1,0 +1,45 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b1c4b0e4-ed11-4080-b55e-b55cf21885ad",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b1c4b0e4-ed11-4080-b55e-b55cf21885ad@6c48a",
+      "displayName": "ClothShop_atlas_rdf21",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b1c4b0e4-ed11-4080-b55e-b55cf21885ad"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "b1c4b0e4-ed11-4080-b55e-b55cf21885ad@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "e9m1+qxy5Es64FQz9zay7v"
+    }
+  }
+}

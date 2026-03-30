@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Bag/BagPanel.xml -->
+  <string name="wffysmtqnven0-n4_nven" mz="text">Sức chứa</string>
+  <string name="wffysmtqnven0-n8_nven" mz="meltingbutton">Luyện hóa</string>
+  <string name="wffysmtqnven0-n15_nven" mz="role">Trang bị nhân vật</string>
+  <string name="wffysmtqnven0-n17_nven" mz="chita">Trang bị hung thú</string>
+  <string name="wffysmtqnven0-n19_nven" mz="fit">Trang bị hợp thể</string>
+  <string name="wffysmtqnven0-n20_nven" mz="phantom">Trang bị huyễn linh</string>
+  <string name="wffysmtqnven0-n21_nven" mz="king">Trang bị vương giả</string>
+  <string name="wffysmtqnven0-n39_pxzd" mz="buttonsearch">Tìm kiếm</string>
+  <string name="wffysmtqnven0-n40_pxzd" mz="buttonsale">Bán vật phẩm</string>
+  <string name="wffysmtqnven0-n41_pxzd" mz="buttononekey">Dùng nhanh</string>
+  <string name="wffysmtqnven0-n27_9jmo" mz="n27">Trang bị</string>
+  <string name="wffysmtqnven0-n28_9jmo" mz="n28">Đạo cụ</string>
+  <string name="wffysmtqnven0-n29_9jmo" mz="n29">Đá quý</string>
+  <string name="wffysmtqnven0-n30_9jmo" mz="n30">Tiến cấp</string>
+  <!-- Bag/DecomposePanel.xml -->
+  <string name="wffysmtqfag4i-n4_fag4" mz="n4">Có thể nhận khi phân giải</string>
+  <string name="wffysmtqfag4i-n11_fag4" mz="onekey">Chọn nhanh</string>
+  <string name="wffysmtqfag4i-n12_fag4" mz="decompose">Xác nhận phân giải</string>
+  <string name="wffysmtqfag4i-n13_fag4" mz="chita">Trang bị hung thú</string>
+  <string name="wffysmtqfag4i-n14_fag4" mz="phantom">Trang bị huyễn linh</string>
+  <string name="wffysmtqfag4i-n15_fag4" mz="king">Trang bị vương giả</string>
+  <string name="wffysmtqfag4i-n34_yyhe" mz="n34">Chọn</string>
+  <string name="wffysmtqfag4i-n62_rxb7" mz="n62">Chọn</string>
+  <string name="wffysmtqfag4i-n69_rxb7" mz="n69">Chọn</string>
+  <!-- Bag/MailPanel.xml -->
+  <string name="wffysmtqsawfs-n4_sawf" mz="n4">Số lượng thư</string>
+  <string name="wffysmtqsawfs-n7_sawf" mz="deleteread">Xóa thư đã đọc</string>
+  <string name="wffysmtqsawfs-n8_sawf" mz="onekeyget">Nhận nhanh</string>
+  <string name="wffysmtqsawfs-n32_rxb7" mz="select0">Thư thường</string>
+  <string name="wffysmtqsawfs-n33_rxb7" mz="select1">Thư hoạt động</string>
+  <string name="wffysmtqsawfs-n34_rxb7" mz="select2">Ghi chép tỷ thí</string>
+  <!-- Bag/SynthesisPanel.xml -->
+  <string name="wffysmtqoxgg13-n9_oxgg" mz="text">Thuộc tính cấp dưới</string>
+  <string name="wffysmtqoxgg13-n40_hje4" mz="button">Hợp thành</string>
+  <!-- Bag/components/AttributeItem.xml -->
+  <string name="wffysmtqoxgg19-n0_oxgg" mz="attribute">HP</string>
+  <!-- BagExtend/GridExtend.xml -->
+  <string name="c6qhbylge5bm0-n1_e5bm" mz="des">Tiêu hao nguyên bảo:</string>
+  <string name="c6qhbylge5bm0-n15_e5bm" mz="n15">Số lượng mở:</string>
+  <string name="c6qhbylge5bm0-n8_e5bm" mz="cancel">Hủy</string>
+  <string name="c6qhbylge5bm0-n9_e5bm" mz="confirm">Xác nhận</string>
+  <!-- BagOneKey/OneKey.xml -->
+  <string name="6obt36zyfip40-n2_fip4" mz="tiplabel">Nhấn dùng ngay để tự động dùng toàn bộ đạo cụ đang chọn</string>
+  <string name="6obt36zyfip40-n9_fip4" mz="buttonuse">Dùng ngay</string>
+  <string name="6obt36zyfip40-n12_fip4" mz="n12">Rương</string>
+  <string name="6obt36zyfip40-n13_fip4" mz="n13">Nguyên liệu</string>
+  <!-- Card/CardCell.xml -->
+  <string name="l1tatbnpocdkl-n7_ocdk" mz="n7">Chưa kích hoạt</string>
+  <!-- Card/CardDetailsView.xml -->
+  <string name="l1tatbnpxi3t41-n4_ocdk" mz="name">Tiên nữ áo trắng
+</string>
+  <!-- Card/CardPanel.xml -->
+  <string name="l1tatbnpocdk1-n36_ieza-0" mz="btn_list">Thất tiên nữ</string>
+  <string name="l1tatbnpocdk1-n36_ieza-1" mz="btn_list">Mười hai mỹ nhân</string>
+  <string name="l1tatbnpocdk1-n36_ieza-2" mz="btn_list">Thập đại thần khí</string>
+  <string name="l1tatbnpocdk1-n36_ieza-3" mz="btn_list">Mười hai thần thú</string>
+  <!-- CardDetail/CardDetailsView.xml -->
+  <string name="ab1bipjo8yrj39-n28_qq64" mz="n28">Sở hữu:</string>
+  <string name="ab1bipjo8yrj39-n30_qq64" mz="btn_upstar">Tăng sao</string>
+  <string name="ab1bipjo8yrj39-n79_ieza" mz="full">Đã đầy sao</string>
+  <!-- Challenge/MainPassPanel.xml -->
+  <string name="zm91p2ceg4dnq-n17_g4dn" mz="n17">Xếp hạng ải</string>
+  <string name="zm91p2ceg4dnq-n49_epmh" mz="lblRollTimes">Qua 3 ngày nữa sẽ nhận cơ hội quay thưởng</string>
+  <string name="zm91p2ceg4dnq-n2_g4dn" mz="btnFight">Khiêu chiến</string>
+  <!-- Challenge/components/MainPass/BtnChallenge.xml -->
+  <string name="zm91p2ceg4dn4-n1_g4dn" mz="title">Khiêu chiến</string>
+  <!-- Challenge/components/MainPass/BtnRoll.xml -->
+  <string name="zm91p2ceepmhv-n1_epmh" mz="title">Vòng quay may mắn</string>
+  <!-- Challenge/components/MainPass/MainPassItem.xml -->
+  <string name="zm91p2ceg4dnr-n7_g4dn" mz="lblLevel">Ải 464</string>
+  <!-- CommonItem/Mark.xml -->
+  <string name="gn62pyk3fip413-n1_fip4" mz="label_1">Tỷ lệ</string>
+  <!-- CommonWidgets/ChBoard.xml -->
+  <string name="1kdklxk3osls40-n1_n9bc" mz="n1">player</string>
+  <!-- CommonWidgets/NameBoard.xml -->
+  <string name="1kdklxk3pwum32-n1_n9bc" mz="n1">normal</string>
+  <!-- CommonWidgets/NpcBoard.xml -->
+  <string name="1kdklxk3osls41-n1_n9bc" mz="n1">npc</string>
+  <!-- CreateRole/CreateRoleView.xml -->
+  <string name="bbt3rqexs2yy0-n5_s2yy" mz="man">Nam</string>
+  <string name="bbt3rqexs2yy0-n6_s2yy" mz="woman">Nữ</string>
+  <!-- Dungeon/DungeonMatPanel.xml -->
+  <string name="rxfi0wy2ueccm-n10_uecc" mz="TipsShow">SVIP1 mở quét nhanh một chạm</string>
+  <string name="rxfi0wy2ueccm-n7_uecc" mz="BtnGet">Nhận</string>
+  <string name="rxfi0wy2ueccm-n8_uecc" mz="BtnGo">Đi tới</string>
+  <!-- Dungeon/components/BtnUp.xml -->
+  <string name="rxfi0wy2m9tf1q-n1_m9tf" mz="n1">Tăng sao</string>
+  <!-- Dungeon/components/DungeonMatItem.xml -->
+  <string name="rxfi0wy2ueccn-n19_m9tf" mz="title_reward">Thu nhập phó bản</string>
+  <string name="rxfi0wy2ueccn-n20_m9tf" mz="title_up">Tăng sao</string>
+  <string name="rxfi0wy2ueccn-n12_mipn" mz="UpTimesShow">Số lần tăng sao: 2</string>
+  <!-- Equip/EquipForgingPanel.xml -->
+  <string name="qdao7dwyopqn42-n13_uk1r" mz="Text">Xem trước chế tạo</string>
+  <string name="qdao7dwyopqn42-n53_opqn" mz="n53">Dùng đá thuộc tính</string>
+  <string name="qdao7dwyopqn42-n55_opqn" mz="n55">Chắc chắn ra thuộc tính phụ màu đỏ</string>
+  <!-- Equip/EquipStonePanel.xml -->
+  <string name="qdao7dwy7sdx0-n64_p1n1" mz="Name">Đai thiên âm</string>
+  <string name="qdao7dwy7sdx0-n48_p1n1" mz="n48">Thuộc tính đá quý</string>
+  <string name="qdao7dwy7sdx0-n56_p1n1" mz="BtnUpgrade">Nâng cấp nhanh</string>
+  <string name="qdao7dwy7sdx0-n57_p1n1" mz="BtnOneKey">Khảm nhanh</string>
+  <!-- Equip/EquipUpStarPanel.xml -->
+  <string name="qdao7dwy7sdx1-n13_uk1r" mz="Level">Chuyển sinh 1 sao 2</string>
+  <string name="qdao7dwy7sdx1-n9_uk1r" mz="Desc">3 trang bị cùng sao có thể ghép thành 1 trang bị tăng thêm 1 sao</string>
+  <!-- Equip/EquipUpgradePanel.xml -->
+  <string name="qdao7dwy7sdx2s-n166_7sdx" mz="Name">Đai thiên âm</string>
+  <string name="qdao7dwy7sdx2s-n195_p1n1" mz="n195">Thuộc tính cường hóa</string>
+  <string name="qdao7dwy7sdx2s-n146_7sdx" mz="n146">Tiêu hao cường hóa</string>
+  <string name="qdao7dwy7sdx2s-n148_7sdx" mz="BtnUpgrade">Cường hóa</string>
+  <string name="qdao7dwy7sdx2s-n149_7sdx" mz="BtnOneKey">Cường hóa nhanh</string>
+  <!-- Equip/components/EquipMasterBtn.xml -->
+  <string name="qdao7dwy7sdx8-n1_7sdx" mz="title">Đại sư cường hóa</string>
+  <!-- Equip/components/EquipStoneAttrItem.xml -->
+  <string name="qdao7dwyj8vx2u-n33_j8vx" mz="Desc">Cấp 12</string>
+  <!-- Equip/components/EquipStoneItem.xml -->
+  <string name="qdao7dwyj8vx2v-n2_gete" mz="Name">Ngọc tấn công</string>
+  <string name="qdao7dwyj8vx2v-n12_w7xc" mz="LimitLevel">Mở ở trang bị cấp 4</string>
+  <!-- Equip/components/EquipUpgradeAttrItem.xml -->
+  <string name="qdao7dwy7sdxr-n172_7sdx" mz="Desc">HP</string>
+  <!-- EquipMaster/EquipMasterView.xml -->
+  <string name="qqf6jlbv7sdx23-n5_7sdx" mz="BtnUpgrade">Thăng bậc</string>
+  <!-- EquipMaster/components/EquipMasterItem.xml -->
+  <string name="qqf6jlbv7sdxb-n16_7sdx" mz="Desc">HP: 1200</string>
+  <!-- EquipUpStarSelect/EquipUpStarSelectView.xml -->
+  <string name="f9bgm3cqoevx24-n34_gx76" mz="n34">Nguồn nhận trang bị: nhiệm vụ chính tuyến, thủ lĩnh, hoạt động</string>
+  <!-- EquipUpStarSucc/EquipUpStarSuccView.xml -->
+  <string name="fqhwiii2oevx0-n4_gx76" mz="n4">Nhấn vùng trống để đóng</string>
+  <!-- Formation/FormationPanel.xml -->
+  <string name="t8sm5brnsi9v5-n1_si9v" mz="lblScore">Tổng chiến lực ra trận: 4253</string>
+  <string name="t8sm5brnsi9v5-n6_si9v" mz="n6">Khi tốc độ bằng nhau, thú cưng sẽ ra tay theo vị trí 1&gt;2&gt;3</string>
+  <!-- GetWay/GetWayView.xml -->
+  <string name="fqh0isd0ozcy0-n3_ozcy" mz="Text">Nguồn nhận</string>
+  <!-- GetWay/components/GetWayItem.xml -->
+  <string name="fqh0isd0ozcy4-n1_ozcy" mz="title">Phó bản nguyên liệu</string>
+  <!-- GiftOpen/GiftOpenView.xml -->
+  <string name="xplv9n6pco8d0-n5_co8d" mz="lblTitle">Nhận thưởng</string>
+  <string name="xplv9n6pco8d0-n7_co8d" mz="btnOK">Xác nhận</string>
+  <string name="xplv9n6pco8d0-n8_co8d" mz="lblTips">Nhấn vùng trống để đóng</string>
+  <!-- GuaJi/GuaJiView.xml -->
+  <string name="183ip50gjcaj0-n35_jcaj" mz="lblRate">Thu nhập treo máy +20%</string>
+  <string name="183ip50gjcaj0-n36_jcaj" mz="lblItemTime">1 ngày 21 giờ 00:00</string>
+  <string name="183ip50gjcaj0-n22_jcaj" mz="n22">Tổng thời gian treo máy</string>
+  <string name="183ip50gjcaj0-n32_jcaj" mz="n32">Thu nhập treo máy</string>
+  <string name="183ip50gjcaj0-n42_hixd" mz="lblNone">Hiện chưa có phần thưởng treo máy nào~</string>
+  <string name="183ip50gjcaj0-n29_jcaj" mz="btnGet">Nhận</string>
+  <!-- GuaJi/components/Button1.xml -->
+  <string name="183ip50gjcajd-n1_jcaj" mz="title">Nhận</string>
+  <!-- GuaJi/components/GuaJiIconItem.xml -->
+  <string name="183ip50gjcajf-n14_jcaj" mz="value">+1.07 vạn/phút</string>
+  <!-- GuaJiSpirit/GuaJiSpiritView.xml -->
+  <string name="pucfjib5uq6s0-n3_uq6s" mz="n3">Đã hết hạn</string>
+  <string name="pucfjib5uq6s0-n6_uq6s" mz="n6">Nhấn bất kỳ vị trí nào để đóng</string>
+  <!-- Illusion/IllusionActivityPanel.xml -->
+  <string name="htv1engaystw1-n3_xi3t" mz="Name">Ỷ Thiên Thần Kiếm</string>
+  <string name="htv1engaystw1-n7_xi3t" mz="n7">Điều kiện kích hoạt</string>
+  <string name="htv1engaystw1-n10_xi3t" mz="n10">Cộng thuộc tính</string>
+  <string name="htv1engaystw1-n15_xi3t" mz="n15">Chưa kích hoạt</string>
+  <string name="htv1engaystw1-n24_ysqs" mz="BtnIllusion">Ảo hóa</string>
+  <!-- Illusion/IllusionExoticPanel.xml -->
+  <string name="htv1engahhg833-n5_hhg8" mz="Name">Ỷ Thiên Thần Kiếm</string>
+  <string name="htv1engahhg833-n51_ysqs" mz="BtnIllusion">Ảo hóa</string>
+  <!-- Illusion/IllusionPanel.xml -->
+  <string name="htv1engaystw2s-n11_ystw" mz="BtnSpirit">Chú linh</string>
+  <string name="htv1engaystw2s-n12_ystw" mz="BtnSmelt">Luyện thần</string>
+  <string name="htv1engaystw2s-n13_ystw" mz="BtnIllusion">Ảo hóa</string>
+  <string name="htv1engaystw2s-n46_cxgy" mz="n46">Chưa kích hoạt</string>
+  <string name="htv1engaystw2s-n5_ystw" mz="n5">Thuộc tính thời trang</string>
+  <!-- Illusion/IllusionSuitPanel.xml -->
+  <string name="htv1engaystw0-n5_hhg8" mz="Name">Ỷ Thiên Thần Kiếm</string>
+  <string name="htv1engaystw0-n45_ysqs" mz="BtnIllusion">Ảo hóa</string>
+  <!-- Illusion/components/IllusionCellItem.xml -->
+  <string name="htv1engaystwp-n8_ystw" mz="GetWay">Hoạt động vận hành</string>
+  <!-- Illusion/components/IllusionSuitItem.xml -->
+  <string name="htv1engahhg82y-n29_hhg8" mz="n29">Chưa kích hoạt</string>
+  <string name="htv1engahhg82y-n23_hhg8" mz="BtnActive">Kích hoạt</string>
+  <!-- Illusion/components/IllusionTitle.xml -->
+  <string name="htv1engaystwh-n18_ystw" mz="Name">Tên hiển thị</string>
+  <!-- IllusionGet/IllusionGetView.xml -->
+  <string name="vn4d429pxi3t2d-n58_xi3t" mz="BtnUse">Trang bị nhanh</string>
+  <string name="vn4d429pxi3t2d-n59_xi3t" mz="n59">Nhấn vùng trống để đóng</string>
+  <string name="vn4d429pxi3t2d-n63_xi3t" mz="Name">Ỷ Thiên Thần Kiếm</string>
+  <!-- IllusionPart/IllusionPartView.xml -->
+  <string name="vom2wp0rxi3t2c-n61_xi3t" mz="n61">Thuộc tính bộ</string>
+  <string name="vom2wp0rxi3t2c-n75_ysqs" mz="n75">Chưa kích hoạt</string>
+  <!-- IllusionPart/components/IllusionTitle.xml -->
+  <string name="vom2wp0rysqs2d-n18_ystw" mz="Name">Tên hiển thị</string>
+  <!-- IllusionSmelt/IllusionSmeltView.xml -->
+  <string name="6ldn5dq0m5a924-n36_aynt" mz="CurrNum">Số lượng sở hữu</string>
+  <string name="6ldn5dq0m5a924-n35_aynt" mz="HasNum">Đã nuốt</string>
+  <string name="6ldn5dq0m5a924-n43_aynt" mz="n43">Đã tăng vĩnh viễn thuộc tính nhân vật</string>
+  <string name="6ldn5dq0m5a924-n31_aynt" mz="BtnUpgrade">Nuốt nhanh</string>
+  <!-- IllusionSmelt/components/IllusionSpiritItem.xml -->
+  <string name="6ldn5dq0aynt29-n16_7sdx" mz="Desc">HP</string>
+  <!-- IllusionSpirit/IllusionSpiritView.xml -->
+  <string name="6ygusz5vaynt26-n33_m5a9" mz="BtnSpirit">Chú linh nhanh</string>
+  <string name="6ygusz5vaynt26-n34_m5a9" mz="Level">Chú linh Lv.0</string>
+  <string name="6ygusz5vaynt26-n36_m5a9" mz="n36">Điểm chú linh:</string>
+  <string name="6ygusz5vaynt26-n37_m5a9" mz="n37">Tiêu hao chú linh:</string>
+  <!-- IllusionUpStar/IllusionUpStarView.xml -->
+  <string name="gf5m3vanysqs2h-n77_ysqs" mz="BtnUpgrade">Tăng sao</string>
+  <string name="gf5m3vanysqs2h-n81_ysqs" mz="n81">Tiêu hao tăng sao:</string>
+  <!-- IllusionUpStar/components/IllusionTitle.xml -->
+  <string name="gf5m3vanysqs6-n18_ystw" mz="Name">Tên hiển thị</string>
+  <!-- ItemInfo/ItemInfoView.xml -->
+  <string name="oy9obobqogof24-n34_khuz" mz="BtnEquip">Trang bị</string>
+  <string name="oy9obobqogof24-n35_khuz" mz="BtnShow">Hiển thị</string>
+  <!-- ItemInfo/components/ItemInfoAttrItem.xml -->
+  <string name="oy9obobqf3c42t-n0_x2pe" mz="title">Tấn công: 17</string>
+  <!-- ItemInfo/components/ItemInfoBaseView.xml -->
+  <string name="oy9obobqrp5v2n-n34_s6hp" mz="n34">Đã trang bị</string>
+  <!-- ItemInfo/components/ItemInfoDescView.xml -->
+  <string name="oy9obobqc38v2s-n37_c38v" mz="n37">【Giới thiệu vật phẩm】</string>
+  <!-- ItemInfo/components/ItemInfoEquipBaseView.xml -->
+  <string name="oy9obobqc38v2o-n15_x2pe" mz="n15">【Thuộc tính cơ bản】</string>
+  <string name="oy9obobqc38v2o-n16_x2pe" mz="Strengthen">Cường hóa</string>
+  <!-- ItemInfo/components/ItemInfoEquipSpecialView.xml -->
+  <string name="oy9obobqc38v2p-n17_x2pe" mz="n17">【Thuộc tính cộng thêm】</string>
+  <!-- ItemInfo/components/ItemInfoEquipStoneView.xml -->
+  <string name="oy9obobqf3c42w-n39_f3c4" mz="n39">【Thuộc tính đá quý】</string>
+  <!-- ItemInfo/components/ItemInfoGetWayItem.xml -->
+  <string name="oy9obobqi2t12m-n0_x2pe" mz="title">Khiêu chiến boss</string>
+  <!-- ItemInfo/components/ItemInfoGetWayView.xml -->
+  <string name="oy9obobqc38v2r-n18_x2pe" mz="n18">【Nguồn nhận】</string>
+  <!-- JInJieHaoLi/components/ButtonSelect.xml -->
+  <string name="4qvmf17bv1dic-n2_v1di" mz="text">Quang vũ</string>
+  <!-- JInJieHaoLi/components/InfoItem.xml -->
+  <string name="4qvmf17bv1di8-n1_v1di" mz="title">Toàn thân cường hóa cấp 14</string>
+  <string name="4qvmf17bv1di8-n6_gcrq" mz="ButtonGet">Nhận</string>
+  <!-- JinJie/JinJieGuangWuPanel.xml -->
+  <string name="fkjc9tccw37e16-n60_w37e" mz="title1">Bậc 3</string>
+  <string name="fkjc9tccw37e16-n61_w37e" mz="title2">Ỷ Thiên Thần Kiếm</string>
+  <string name="fkjc9tccw37e16-n96_w37e" mz="ButtonSkin">Skin</string>
+  <string name="fkjc9tccw37e16-n95_w37e" mz="ButtonTriple">Nhận x3</string>
+  <string name="fkjc9tccw37e16-n93_w37e" mz="ButtonLianShen">Luyện thần</string>
+  <string name="fkjc9tccw37e16-n92_w37e" mz="ButtonZhuling">Chú linh</string>
+  <string name="fkjc9tccw37e16-n91_w37e" mz="ButtonJinJieHaoLi">Quà tiến cấp</string>
+  <string name="fkjc9tccw37e16-n97_w37e" mz="ButtonHuanhua">Ảo hóa</string>
+  <string name="fkjc9tccw37e16-n28_eab9" mz="ButtonUp">Thăng bậc</string>
+  <string name="fkjc9tccw37e16-n74_w37e" mz="ButtonAllUp">Thăng bậc nhanh</string>
+  <string name="fkjc9tccw37e16-n101_thuu" mz="ButtonUpgrade">Đột phá</string>
+  <string name="fkjc9tccw37e16-n50_udz1" mz="n50">Tự động mua</string>
+  <string name="fkjc9tccw37e16-n47_udz1" mz="n47">Kỹ năng</string>
+  <string name="fkjc9tccw37e16-n48_udz1" mz="n48">Trang bị</string>
+  <string name="fkjc9tccw37e16-n40_udz1" mz="n40">Tiến độ thăng bậc</string>
+  <string name="fkjc9tccw37e16-n51_udz1" mz="n51">Sở hữu:</string>
+  <!-- JinJie/components/ButtonBox1.xml -->
+  <string name="fkjc9tccw37e1f-n2_udz1" mz="n2">Quà tiến cấp</string>
+  <!-- JinJie/components/ButtonBox2.xml -->
+  <string name="fkjc9tccw37e1g-n2_udz1" mz="text">Nhận x3</string>
+  <!-- JinJie/components/ButtonGreen.xml -->
+  <string name="fkjc9tccw37e1h-n2_udz1" mz="n2">Ảo</string>
+  <string name="fkjc9tccw37e1h-n3_udz1" mz="n3">hóa</string>
+  <!-- JinJie/components/ButtonHuanHua.xml -->
+  <string name="fkjc9tcclgwgi-n7_v1di" mz="n7">Ảo hóa</string>
+  <!-- JinJie/components/ButtonJinJie.xml -->
+  <string name="fkjc9tccw37e1e-n3_w37e" mz="title">Tiêu đề</string>
+  <!-- JinJie/components/ButtonJinJieHaoLi.xml -->
+  <string name="fkjc9tcclgwg0-n2_udz1" mz="n2">Quà tiến cấp</string>
+  <!-- JinJie/components/ButtonSkin.xml -->
+  <string name="fkjc9tcclgwg8-n2_udz1" mz="text">Ngoại trang</string>
+  <!-- JinJie/components/ButtonTriple.xml -->
+  <string name="fkjc9tcclgwg2-n2_udz1" mz="text">Nhận x3</string>
+  <!-- JinJie/components/ButtonZhuhun.xml -->
+  <string name="fkjc9tcclgwg6-n2_udz1" mz="text">Chú hồn</string>
+  <!-- JinJie/components/ButtonZhuling.xml -->
+  <string name="fkjc9tcclgwg4-n2_udz1" mz="text">Chú linh</string>
+  <string name="fkjc9tcclgwg4-n4_v1di" mz="tip">lv.0</string>
+  <!-- JinJie/components/SkillCell.xml -->
+  <string name="fkjc9tccjdfs1l-n1_udz1" mz="text">Lv.10</string>
+  <!-- JinJie/components/cell.xml -->
+  <string name="fkjc9tccw37e1i-n1_udz1" mz="n1">Bậc 2</string>
+  <!-- JinJieAttribute/JinJieAttributeView.xml -->
+  <string name="fkww58arlgwg7-n3_lgwg" mz="n3">Cộng thuộc tính cho nhân vật</string>
+  <!-- JinJieAttribute/components/info.xml -->
+  <string name="fkww58arlgwgd-n1_lgwg" mz="title1">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n2_lgwg" mz="info1">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n28_gcrq" mz="otherInfo">Thông tin khác</string>
+  <string name="fkww58arlgwgd-n10_gcrq" mz="title2">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n11_gcrq" mz="title3">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n12_gcrq" mz="title4">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n13_gcrq" mz="title5">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n14_gcrq" mz="title6">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n15_gcrq" mz="title7">Thuộc tính kỹ năng quang vũ</string>
+  <string name="fkww58arlgwgd-n16_gcrq" mz="info2">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n17_gcrq" mz="info3">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n18_gcrq" mz="info4">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n19_gcrq" mz="info5">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n20_gcrq" mz="info6">Sinh mệnh+114
+
+Sinh mệnh+1141</string>
+  <string name="fkww58arlgwgd-n21_gcrq" mz="info7">Sinh mệnh+114
+Sinh mệnh+1141</string>
+  <!-- JinJieEquipment/JinJieEquipmentView.xml -->
+  <string name="f7kh203mlgwg7-n5_lgwg" mz="GetInfo">Cách nhận</string>
+  <!-- JinJieEquipment/components/ButtonDaZao.xml -->
+  <string name="f7kh203mlgwgb-n2_udz1" mz="text">Chế tạo</string>
+  <!-- JinJieEquipment/components/ButtonHuaJin.xml -->
+  <string name="f7kh203mlgwgd-n2_udz1" mz="text">Hóa kim</string>
+  <!-- JinJieGet/JinJieGetView.xml -->
+  <string name="qs4o8j7iw37ef-n9_w37e" mz="n9">Thưởng tiến cấp</string>
+  <string name="qs4o8j7iw37ef-n11_w37e" mz="n11">Thưởng x3! Giá rẻ hơn rất nhiều so với mua lẻ trong shop, nhận là có lời!</string>
+  <string name="qs4o8j7iw37ef-n13_w37e" mz="ButtonGet">Nhận ngay</string>
+  <string name="qs4o8j7iw37ef-n14_w37e" mz="ButtonTriple">Nhận x3</string>
+  <string name="qs4o8j7iw37ef-n17_w37e" mz="n17">Nhấn vùng trống để đóng</string>
+  <string name="qs4o8j7iw37ef-n20_w37e" mz="name">Thanh Long Yển Nguyệt Đao</string>
+  <!-- JinJieSkill/JinJieSkillView.xml -->
+  <string name="fv3oa04flgwg1-n26_lgwg" mz="skillText">Kiếm Thánh Quang lv.11</string>
+  <string name="fv3oa04flgwg1-n5_lgwg" mz="n5">Hiệu quả hiện tại</string>
+  <string name="fv3oa04flgwg1-n29_lgwg" mz="ButtonUp">Nâng cấp</string>
+  <string name="fv3oa04flgwg1-n44_thuu" mz="title1">Hiệu quả hiện tại</string>
+  <string name="fv3oa04flgwg1-n45_thuu" mz="title2">Hiệu quả cấp sau</string>
+  <!-- JinJieSkill/components/Info.xml -->
+  <string name="fv3oa04flgwg7-n0_lgwg" mz="curText">Sinh mệnh +1200</string>
+  <string name="fv3oa04flgwg7-n2_lgwg" mz="n2">Hiệu quả cấp sau</string>
+  <string name="fv3oa04flgwg7-n6_lgwg" mz="nextText">Sinh mệnh +1200</string>
+  <!-- JinJieSkill/components/SkillCell.xml -->
+  <string name="fv3oa04fjdfsc-n1_udz1" mz="text">Lv.10</string>
+  <!-- JinJieSkin/JinJieSkinPanel.xml -->
+  <string name="fv3tryhew37el-n8_w37e" mz="info1">Thuộc tính tiến cấp quang vũ +10%</string>
+  <string name="fv3tryhew37el-n7_w37e" mz="name">Ỷ Thiên Thần Kiếm</string>
+  <string name="fv3tryhew37el-n10_w37e" mz="n10">Tổng chiến lực ngoại trang:</string>
+  <string name="fv3tryhew37el-n12_w37e" mz="n12">Đã kích hoạt:</string>
+  <string name="fv3tryhew37el-n14_w37e" mz="n14">Ngoại trang hiện tại:</string>
+  <string name="fv3tryhew37el-n45_parv" mz="ButtonHuanHua">Ảo hóa</string>
+  <string name="fv3tryhew37el-n20_w37e" mz="n20">Thuộc tính ngoại trang</string>
+  <string name="fv3tryhew37el-n37_gcrq" mz="skinAttrInfo">Sinh mệnh +1200/100</string>
+  <string name="fv3tryhew37el-n23_w37e" mz="skinName">Tiên Nữ Áo Trắng</string>
+  <string name="fv3tryhew37el-n24_w37e" mz="n24">Sở hữu:</string>
+  <string name="fv3tryhew37el-n26_w37e" mz="ButtonStarUp">Tăng sao</string>
+  <!-- JinJieSkin/components/ButtonQuality.xml -->
+  <string name="fv3tryhew37et-n2_v1di" mz="text">Cực phẩm</string>
+  <!-- JinJieSkin/components/SkillItem.xml -->
+  <string name="fv3tryhew37ef-n1_udz1" mz="text1">Bậc 2</string>
+  <!-- JinJieSkin/components/SkinItem.xml -->
+  <string name="fv3tryhew37eh-n1_udz1" mz="text1">Bậc 2</string>
+  <!-- LianShen/LianShenView.xml -->
+  <string name="1tv853hrparv4-n2_parv" mz="ButtonUpLevel">Nâng cấp</string>
+  <string name="1tv853hrparv4-n4_parv" mz="name">Đan luyện thần thời trang</string>
+  <string name="1tv853hrparv4-n5_parv" mz="n5">Đã nuốt:</string>
+  <string name="1tv853hrparv4-n7_parv" mz="n7">Số lượng sở hữu:</string>
+  <string name="1tv853hrparv4-n9_parv" mz="n9">Đã tăng vĩnh viễn thuộc tính nhân vật</string>
+  <!-- LianShen/components/Attr.xml -->
+  <string name="1tv853hrparv1-n2_jdfs" mz="attrName">Sinh mệnh</string>
+  <!-- Login/LoginView.xml -->
+  <string name="zuqsa9o4wm0t0-n37_oxgg" mz="notice">Thông báo</string>
+  <string name="zuqsa9o4wm0t0-n9_wm0t" mz="n9">Tài khoản</string>
+  <string name="zuqsa9o4wm0t0-n18_wm0t" mz="n18">Mật khẩu</string>
+  <string name="zuqsa9o4wm0t0-n24_k50s" mz="ButtonLogin">Đăng nhập</string>
+  <string name="zuqsa9o4wm0t0-n34_leyh" mz="text">Nhấn để đổi khu</string>
+  <!-- Mail/MailView.xml -->
+  <string name="5bykumcysawf0-n7_sawf" mz="title">Đính kèm</string>
+  <string name="5bykumcysawf0-n11_jez8" mz="none">Không có đính kèm</string>
+  <!-- Main/Top.xml -->
+  <string name="ld2r4xcrx9w42f-n5_dj6y" mz="lv">LV</string>
+  <!-- Main/components/ButtonMainPass2.xml -->
+  <string name="ld2r4xcruq6s2m-n1_uq6s" mz="title">Tự động vượt ải</string>
+  <!-- MainPassRoll/MainPassRollView.xml -->
+  <string name="xi04qbxaepmhw-n1_epmh" mz="lblCondition">Vượt thêm 3 ải nữa để nhận cơ hội quay thưởng</string>
+  <string name="xi04qbxaepmhw-n3_epmh" mz="n3">Bỏ qua hoạt ảnh</string>
+  <!-- Melting/MeltingPanel.xml -->
+  <string name="947et4zue5bm2-n6_e5bm" mz="n6">Có thể nhận khi dung luyện</string>
+  <string name="947et4zue5bm2-n10_e5bm" mz="buttonmelting">Dung luyện</string>
+  <string name="947et4zue5bm2-n12_e5bm" mz="n12">Tự động dung luyện</string>
+  <!-- Pet/AttrPanel.xml -->
+  <string name="cd7dqzxukasg2c-n49_tsva" mz="petState">Vị trí 1</string>
+  <string name="cd7dqzxukasg2c-n10_kasg" mz="btnBook">Bộ sưu tập</string>
+  <string name="cd7dqzxukasg2c-n15_kasg" mz="btnShow">Hiển thị</string>
+  <string name="cd7dqzxukasg2c-n12_kasg" mz="btnBuZhuo">Bắt</string>
+  <string name="cd7dqzxukasg2c-n11_kasg" mz="btnTrain">Bồi dưỡng</string>
+  <string name="cd7dqzxukasg2c-n13_kasg" mz="btnRemake">Cải tạo</string>
+  <string name="cd7dqzxukasg2c-n36_tsva" mz="btnBuZhen">Bày trận</string>
+  <string name="cd7dqzxukasg2c-n30_sxjg-0" mz="tabList">Thú cưng</string>
+  <string name="cd7dqzxukasg2c-n30_sxjg-1" mz="tabList">Thuộc tính</string>
+  <string name="cd7dqzxukasg2c-n30_sxjg-2" mz="tabList">Kỹ năng</string>
+  <string name="cd7dqzxukasg2c-n30_sxjg-3" mz="tabList">Trang bị</string>
+  <!-- Pet/PetMiniAttr.xml -->
+  <string name="cd7dqzxukasg1f-n30_kasg" mz="n30">Thuộc tính cơ bản</string>
+  <string name="cd7dqzxukasg1f-n62_tsva" mz="n62">Tư chất thú cưng</string>
+  <string name="cd7dqzxukasg1f-n42_kasg" mz="attr0">Sinh mệnh:24254</string>
+  <string name="cd7dqzxukasg1f-n43_kasg" mz="attr1">Tấn công:24254</string>
+  <string name="cd7dqzxukasg1f-n44_kasg" mz="attr2">Phòng ngự:24254</string>
+  <string name="cd7dqzxukasg1f-n45_kasg" mz="attr3">Tốc độ:242</string>
+  <string name="cd7dqzxukasg1f-n66_tsva" mz="n66">Phóng sinh</string>
+  <!-- Pet/PetMiniEquip.xml -->
+  <string name="cd7dqzxutsva3h-n9_tsva" mz="n9">Kỹ năng thú cưng</string>
+  <string name="cd7dqzxutsva3h-n13_tsva" mz="n13">Kỹ năng thú cưng</string>
+  <string name="cd7dqzxutsva3h-n1_tsva" mz="btnDown">Tháo nhanh</string>
+  <string name="cd7dqzxutsva3h-n2_tsva" mz="btnUp">Trang bị nhanh</string>
+  <!-- Pet/PetMiniSkill.xml -->
+  <string name="cd7dqzxukasg1s-n57_tsva" mz="n57">Kỹ năng thú cưng</string>
+  <!-- Pet/SkillPanel.xml -->
+  <string name="cd7dqzxuvfoa4-n28_w0dr" mz="lblUpAttr">Đã học 2 kỹ năng chung,
+thuộc tính tăng khi thú cưng lên cấp +2%</string>
+  <string name="cd7dqzxuvfoa4-n36_c67t" mz="btnSell">Thu hồi</string>
+  <string name="cd7dqzxuvfoa4-n39_c67t" mz="btnShow">Xem trước kỹ năng</string>
+  <string name="cd7dqzxuvfoa4-n6_w0dr" mz="n6">Học kỹ năng có xác suất ghi đè kỹ năng cũ hoặc mở ô kỹ năng mới</string>
+  <string name="cd7dqzxuvfoa4-n15_w0dr" mz="n15">Hãy đặt sách kỹ năng vào</string>
+  <string name="cd7dqzxuvfoa4-n10_w0dr" mz="btnLearn">Học</string>
+  <!-- Pet/TunShiPanel.xml -->
+  <string name="cd7dqzxuvfoa3-n36_kasg" mz="petName">Nhị Lang Chân Quân (quần)</string>
+  <string name="cd7dqzxuvfoa3-n62_tsva" mz="btnAdd">Chọn nhanh</string>
+  <string name="cd7dqzxuvfoa3-n63_tsva" mz="btnSure">Nuốt</string>
+  <string name="cd7dqzxuvfoa3-n54_tsva" mz="btnQuick">Nuốt nhanh</string>
+  <!-- Pet/components/AttrGrow.xml -->
+  <string name="cd7dqzxukasg1r-n47_kasg" mz="attr">Tư chất tấn công:24254/242</string>
+  <!-- Pet/components/PetAttrSelectItem2.xml -->
+  <string name="cd7dqzxutsva39-n1_tsva" mz="title">Thú cưng</string>
+  <!-- Pet/components/PetAttributeItem.xml -->
+  <string name="cd7dqzxukasg1n-n0_kasg" mz="title">Tư chất tấn công:</string>
+  <!-- Pet/components/PetNameItem.xml -->
+  <string name="cd7dqzxuw0dr2p-n33_w0dr" mz="level">Chuyển 5 cấp 12</string>
+  <string name="cd7dqzxuw0dr2p-n34_w0dr" mz="name">Bobo (đơn)</string>
+  <!-- Pet/skill/BtnSkillAttr.xml -->
+  <string name="cd7dqzxuw0dr32-n2_w0dr" mz="n2">Tăng thuộc tính</string>
+  <!-- Pet/skill/BtnSkillGet.xml -->
+  <string name="cd7dqzxuw0dr2y-n3_w0dr" mz="n3"> Cách nhận</string>
+  <!-- PetBook/BookPanel.xml -->
+  <string name="bfyymocmne9a1-n18_ne9a" mz="n18">Tăng trưởng thú cưng:</string>
+  <string name="bfyymocmne9a1-n24_ne9a-0" mz="tabList">Tất cả</string>
+  <string name="bfyymocmne9a1-n24_ne9a-1" mz="tabList">Thường</string>
+  <string name="bfyymocmne9a1-n24_ne9a-2" mz="tabList">Tinh anh</string>
+  <string name="bfyymocmne9a1-n24_ne9a-3" mz="tabList">Sử thi</string>
+  <string name="bfyymocmne9a1-n24_ne9a-4" mz="tabList">Truyền thuyết</string>
+  <string name="bfyymocmne9a1-n24_ne9a-5" mz="tabList">Thần thoại</string>
+  <!-- PetBook/book/BtnTab.xml -->
+  <string name="bfyymocmne9ab-n2_ne9a" mz="title">Thường</string>
+  <!-- PetBook/exchange/ExchangeItem.xml -->
+  <string name="bfyymocmne9ae-n6_ne9a" mz="num">Số lượng sở hữu:</string>
+  <string name="bfyymocmne9ae-n12_ty6z" mz="lblNum">Số lượng sở hữu:</string>
+  <string name="bfyymocmne9ae-n10_ne9a" mz="btnBuy">Hợp thành</string>
+  <string name="bfyymocmne9ae-n11_ne9a" mz="btnGet">Nhận</string>
+  <!-- PetBookShow/PetBookShowView.xml -->
+  <string name="bmsln114ty6zd-n4_ne9a" mz="n4">Thuộc tính cơ bản</string>
+  <string name="bmsln114ty6zd-n18_ne9a" mz="n18">Tư chất thú cưng</string>
+  <string name="bmsln114ty6zd-n22_ne9a" mz="n22">Kỹ năng thú cưng</string>
+  <string name="bmsln114ty6zd-n10_ne9a" mz="baseAttr0">Sinh mệnh:24254</string>
+  <string name="bmsln114ty6zd-n11_ne9a" mz="baseAttr1">Tấn công:24254</string>
+  <string name="bmsln114ty6zd-n12_ne9a" mz="baseAttr2">Phòng ngự:24254</string>
+  <string name="bmsln114ty6zd-n13_ne9a" mz="baseAttr3">Tốc độ:242</string>
+  <string name="bmsln114ty6zd-n15_ne9a-0-title" mz="growList">Tư chất tấn công</string>
+  <string name="bmsln114ty6zd-n15_ne9a-1-title" mz="growList">Tư chất phòng ngự</string>
+  <string name="bmsln114ty6zd-n15_ne9a-2-title" mz="growList">Tư chất sinh mệnh</string>
+  <string name="bmsln114ty6zd-n15_ne9a-3-title" mz="growList">Tăng      trưởng</string>
+  <string name="bmsln114ty6zd-n26_ne9a" mz="n26">Nhấn vùng trống để đóng</string>
+  <!-- PetBookShow/components/AttrGrow.xml -->
+  <string name="bmsln114ne9a4-n59_ne9a" mz="title">Tư chất tấn công:</string>
+  <!-- PetBookShow/components/PetAttributeItem.xml -->
+  <string name="bmsln114ne9a3-n0_kasg" mz="title">Tư chất tấn công:</string>
+  <!-- PetCatch/PetCatchPanel.xml -->
+  <string name="t2joqwbmsi9v0-n2_si9v" mz="btnShow">Tổng quan vật phẩm rơi</string>
+  <string name="t2joqwbmsi9v0-n3_si9v" mz="btnShop">Cửa hàng linh thú</string>
+  <string name="t2joqwbmsi9v0-n18_si9v" mz="n18">Còn 0:9:20 nữa đợt linh thú tiếp theo sẽ đến</string>
+  <string name="t2joqwbmsi9v0-n11_si9v" mz="lblLine1">Bắt thú cưng máy chủ này</string>
+  <string name="t2joqwbmsi9v0-n5_si9v" mz="tabMode0">Máy chủ này</string>
+  <string name="t2joqwbmsi9v0-n6_si9v" mz="tabMode1">Liên server</string>
+  <string name="t2joqwbmsi9v0-n7_si9v" mz="tabMode2">Yêu môn dị giới</string>
+  <string name="t2joqwbmsi9v0-n4_si9v" mz="btnEnter">Vào</string>
+  <!-- PetCatch/components/TabType.xml -->
+  <string name="t2joqwbmsi9vc-n1_si9v" mz="title">Máy chủ này</string>
+  <!-- PetCatchLocal/PetCatchLocal.xml -->
+  <string name="lhn2i2aoey471-n11_ey47" mz="n11">Lịch sử tìm kiếm</string>
+  <string name="lhn2i2aoey471-n12_ey47" mz="n12">Lịch sử tìm kiếm</string>
+  <string name="lhn2i2aoey471-n18_ey47" mz="n18">Danh sách thú cưng</string>
+  <string name="lhn2i2aoey471-n15_ey47" mz="n15">Danh sách thú cưng</string>
+  <string name="lhn2i2aoey471-n27_ey47" mz="btnUse0">Tìm kiếm sơ cấp</string>
+  <string name="lhn2i2aoey471-n28_s47f" mz="btnUse1">Tìm kiếm cao cấp</string>
+  <string name="lhn2i2aoey471-n29_s47f" mz="btnUse2">Tù và thần thú</string>
+  <string name="lhn2i2aoey471-n35_s47f" mz="n35">Điểm linh thú +3</string>
+  <string name="lhn2i2aoey471-n36_s47f" mz="n36">Điểm linh thú +3</string>
+  <string name="lhn2i2aoey471-n37_s47f" mz="n37">Điểm linh thú +3</string>
+  <string name="lhn2i2aoey471-n41_s47f" mz="btnRecord">Nhật ký bắt</string>
+  <string name="lhn2i2aoey471-n42_s47f" mz="btnExit">Nhật ký bắt</string>
+  <string name="lhn2i2aoey471-n43_s47f" mz="btnAuto">Tự động bắt</string>
+  <string name="lhn2i2aoey471-n44_s47f" mz="btnAutoFight">Tự động chiến đấu</string>
+  <!-- PetCatchLocal/components/LocalRecordItem.xml -->
+  <string name="lhn2i2aoey475-n9_ey47" mz="n9">Tông chủ server này Đồng Đồng VS Nhục Nhục đã online.</string>
+  <!-- PetCatchShow/components/ShowItemItem.xml -->
+  <string name="tk15kgq8si9v5-n4_si9v" mz="title">Rơi phẩm cực phẩm</string>
+  <!-- PetCatchShow/components/ShowPetItem.xml -->
+  <string name="tk15kgq8si9v6-n4_si9v" mz="title">Rơi phẩm cực phẩm</string>
+  <!-- PetCatchTips/PetCatchTipsView.xml -->
+  <string name="tk4hunsxsi9v0-n1_si9v" mz="n1">Nhấn vùng trống để đóng</string>
+  <string name="tk4hunsxsi9v0-n5_si9v" mz="n5">Cơn thịnh nộ thần thú</string>
+  <string name="tk4hunsxsi9v0-n6_si9v" mz="lblDesc0">Trong vườn linh thú đang phong ấn thần thú cổ xưa</string>
+  <string name="tk4hunsxsi9v0-n7_si9v" mz="lblDesc1">Mỗi ngày vào 11:59, 13:50, 17:50, Sư Hoàng Nộ Diễm sẽ giáng xuống vườn linh thú trong 30 phút, nuốt chửng các linh thú nhỏ khác, các tiên hữu cần đồng lòng phong ấn nó!</string>
+  <string name="tk4hunsxsi9v0-n8_si9v" mz="lblDesc2">Sau khi phong ấn thành công, người chơi sẽ nhận được rất nhiều mảnh thần thú! Thu thập đủ số lượng mảnh để triệu hồi thần thú!</string>
+  <!-- PetFreedomShow/PetFreedomShowView.xml -->
+  <string name="n5po7wsmtsva0-n3_tsva" mz="btnExit">Hủy</string>
+  <string name="n5po7wsmtsva0-n4_tsva" mz="btnSure">Xác nhận</string>
+  <!-- PetReason/PetReasonView.xml -->
+  <string name="erzut4gmty6z0-n9_ty6z" mz="petName">Gà Moe</string>
+  <string name="erzut4gmty6z0-n72_ty6z" mz="n72">Nhấn vùng trống để đóng</string>
+  <string name="erzut4gmty6z0-n14_ty6z" mz="rebornStr">Chuyển 1 cấp 1</string>
+  <string name="erzut4gmty6z0-n16_ty6z-cp-title" mz="rebornAttr0">Tấn công:</string>
+  <string name="erzut4gmty6z0-n22_ty6z-cp-title" mz="rebornAttr1">Phòng ngự:</string>
+  <string name="erzut4gmty6z0-n23_ty6z-cp-title" mz="rebornAttr2">Sinh mệnh:</string>
+  <string name="erzut4gmty6z0-n24_ty6z-cp-title" mz="rebornAttr3">Tốc độ:</string>
+  <string name="erzut4gmty6z0-n26_ty6z" mz="n26">Nhấn vùng trống để đóng</string>
+  <string name="erzut4gmty6z0-n29_ty6z" mz="mutateStr">Thú cưng lóe sáng một cái rồi... vỡ mất</string>
+  <string name="erzut4gmty6z0-n36_ty6z-cp-title" mz="mutateAttr0">Tư chất tấn công</string>
+  <string name="erzut4gmty6z0-n42_ty6z-cp-title" mz="mutateAttr1">Tư chất phòng ngự</string>
+  <string name="erzut4gmty6z0-n43_ty6z-cp-title" mz="mutateAttr2">Tư chất sinh mệnh</string>
+  <string name="erzut4gmty6z0-n44_ty6z-cp-title" mz="mutateAttr3">Tăng      trưởng</string>
+  <string name="erzut4gmty6z0-n47_ty6z" mz="n47">Nhấn vùng trống để đóng</string>
+  <string name="erzut4gmty6z0-n56_ty6z" mz="n56">Nhấn vùng trống để đóng</string>
+  <string name="erzut4gmty6z0-n63_ty6z-cp-title" mz="devourAttr0">Giới hạn tư chất tấn công</string>
+  <string name="erzut4gmty6z0-n69_ty6z-cp-title" mz="devourAttr1">Giới hạn tư chất phòng ngự</string>
+  <string name="erzut4gmty6z0-n70_ty6z-cp-title" mz="devourAttr2">Giới hạn tư chất sinh mệnh</string>
+  <string name="erzut4gmty6z0-n71_ty6z-cp-title" mz="devourAttr3">Giới hạn tăng trưởng</string>
+  <!-- PetReason/components/MutateAttrItem.xml -->
+  <string name="erzut4gmty6zs-n37_ty6z" mz="title">Tư chất tấn công</string>
+  <!-- PetReason/components/RebornAttrItem.xml -->
+  <string name="erzut4gmty6zq-n17_ty6z" mz="title">Tấn công:</string>
+  <!-- PetReasonList/PetReasonListView.xml -->
+  <string name="3izy8ucelln60-n5_co8d" mz="lblTitle">Nhận thưởng</string>
+  <string name="3izy8ucelln60-n7_co8d" mz="btnOK">Xác nhận</string>
+  <string name="3izy8ucelln60-n8_co8d" mz="lblTips">Nhấn vùng trống để đóng</string>
+  <!-- PetRemake/FreedomPanel.xml -->
+  <string name="22g30mg2jqan3-n2_tsva" mz="lblTips">1. Phóng sinh thú cưng có xác suất nhận được sách đạo cụ kỹ năng
+2. Chỉ thú cưng thường và thú cưng tinh anh mới có thể phóng sinh, các thú cưng hiếm khác có thể tiến hóa thông qua nuốt</string>
+  <string name="22g30mg2jqan3-n15_tsva" mz="btnSelect">Chọn nhanh</string>
+  <string name="22g30mg2jqan3-n20_tsva" mz="btnSure">Phóng sinh</string>
+  <!-- PetRemake/ResetPanel.xml -->
+  <string name="22g30mg2jqan1-n5_jqan" mz="lblTips">Đặt lại thú cưng sẽ hoàn trả thú cưng ban đầu cùng Đan kinh nghiệm thú cưng, Kim Liễu Lộ và Đan chuyển sinh thú cưng đã tiêu hao khi bồi dưỡng.</string>
+  <string name="22g30mg2jqan1-n6_jqan" mz="n6">(Thần sủng Tinh Diệu không thể đặt lại)</string>
+  <string name="22g30mg2jqan1-n24_ern8" mz="lastDesc">Chuyển 1 cấp 12</string>
+  <string name="22g30mg2jqan1-n25_ern8" mz="nextDesc">Chuyển 1 cấp 12</string>
+  <string name="22g30mg2jqan1-n17_jqan" mz="n17">Nguyên liệu hoàn trả khi đặt lại</string>
+  <string name="22g30mg2jqan1-n3_jqan" mz="btnReset">Đặt lại</string>
+  <!-- PetRemake/SplitPanel.xml -->
+  <string name="22g30mg2jqan2-n2_jqan" mz="lblTips">1. Phân giải thú cưng chắc chắn nhận được nguyên liệu nuốt
+2. Chỉ thú cưng đỏ, vàng, cầu vồng đã được đặt lại mới có thể phân giải (thú cưng chưa bồi dưỡng có thể phân giải trực tiếp, không cần đặt lại)</string>
+  <string name="22g30mg2jqan2-n3_jqan" mz="n3">(Thần sủng Tinh Diệu không thể đặt lại)</string>
+  <string name="22g30mg2jqan2-n22_pu00" mz="lastDesc">Chuyển 1 cấp 12</string>
+  <string name="22g30mg2jqan2-n23_pu00" mz="nextDesc">Chuyển 1 cấp 12</string>
+  <string name="22g30mg2jqan2-n10_jqan" mz="n10">Nguyên liệu hoàn trả khi phân giải</string>
+  <string name="22g30mg2jqan2-n25_pu00" mz="stuffDesc">Chuyển 1 cấp 12</string>
+  <string name="22g30mg2jqan2-n15_jqan" mz="btnSplit">Phân giải</string>
+  <!-- PetRemake/components/FreedomSelectItem.xml -->
+  <string name="22g30mg2lln6q-n6_lln6" mz="desc">Chuyển 0 cấp 48</string>
+  <!-- PetSkillSelect/BtnSkillGet.xml -->
+  <string name="j5uf8jqaw0dr2-n3_w0dr" mz="n3"> Cách nhận</string>
+  <!-- PetSkillSelect/PetSkillSelectView.xml -->
+  <string name="j5uf8jqaw0dr0-n2_w0dr" mz="n2">Ẩn kỹ năng đã học</string>
+  <string name="j5uf8jqaw0dr0-n3_w0dr" mz="btnSure">Xác nhận</string>
+  <string name="j5uf8jqaw0dr0-n5_w0dr" mz="n5">Tất cả</string>
+  <string name="j5uf8jqaw0dr0-n6_w0dr" mz="n6">Cấp thấp</string>
+  <string name="j5uf8jqaw0dr0-n7_w0dr" mz="n7">Cấp cao</string>
+  <string name="j5uf8jqaw0dr0-n8_w0dr" mz="n8">Đỉnh cấp</string>
+  <!-- PetSkillSelect/SkillItem.xml -->
+  <string name="j5uf8jqaw0dr7-n3_w0dr" mz="itemName">Tên vật phẩm</string>
+  <string name="j5uf8jqaw0dr7-n4_w0dr" mz="itemNum">Số lượng sở hữu</string>
+  <!-- PetSkillSell/PetSkillSellView.xml -->
+  <string name="j9diusunw0dr0-n7_w0dr" mz="n7">Cấp thấp</string>
+  <string name="j9diusunw0dr0-n12_w0dr" mz="n12">Cấp cao</string>
+  <string name="j9diusunw0dr0-n15_w0dr" mz="n15">Đỉnh cấp</string>
+  <string name="j9diusunw0dr0-n17_w0dr" mz="btnSure">Thu hồi</string>
+  <string name="j9diusunw0dr0-n18_w0dr" mz="btnShop">Cửa hàng sách kỹ năng</string>
+  <!-- PetSkillShow/PetSkillShowView.xml -->
+  <string name="jisurz0fw0dr0-n10_w0dr" mz="lblDesc">Kỹ năng đề cử cho thú cưng này [đơn mục tiêu]</string>
+  <string name="jisurz0fw0dr0-n19_w0dr" mz="n19">Nhấn vùng trống để đóng</string>
+  <!-- PetSkillShow/SkillDescItem.xml -->
+  <string name="jisurz0fw0dr2-n6_w0dr" mz="lblName">Tất sát đỉnh cấp</string>
+  <string name="jisurz0fw0dr2-n7_w0dr" mz="lblDesc">Tấn công bạo kích tăng 16%, Tấn công bạo kích tăng 16%, Tấn công bạo kích tăng 16%</string>
+  <!-- PetSkillTips/PetSkillTipsView.xml -->
+  <string name="0gpwwyird9bc0-n3_d9bc" mz="skillName">Khóa Giai Đoạn</string>
+  <string name="0gpwwyird9bc0-n5_d9bc" mz="n5">Loại:</string>
+  <!-- PetTrain/PetTrainView.xml -->
+  <string name="bwes94wune9a0-n18_er6k" mz="petState">Vị trí 1</string>
+  <!-- PetTrain/RebornPanel.xml -->
+  <string name="bwes94wune9a3-n1_jqan" mz="n1">Thuộc tính hiện tại</string>
+  <string name="bwes94wune9a3-n3_jqan" mz="n3">Thuộc tính cấp sau</string>
+  <string name="bwes94wune9a3-n7_jqan" mz="n7">Tiêu hao</string>
+  <string name="bwes94wune9a3-n5_jqan" mz="btnSure">Chuyển sinh</string>
+  <string name="bwes94wune9a3-n12_jqan" mz="n12">Điều kiện chuyển sinh:</string>
+  <string name="bwes94wune9a3-n13_jqan" mz="condition">Nhân vật 3 chuyển sinh, Thú cưng 0 chuyển sinh lv80</string>
+  <string name="bwes94wune9a3-n24_psco" mz="lblMax">Đã đạt cấp chuyển sinh tối đa</string>
+  <!-- PetTrain/TrainPanel.xml -->
+  <string name="bwes94wune9a1-n3_ne9a" mz="n3">Chọn vật phẩm</string>
+  <string name="bwes94wune9a1-n15_jqan-cp-title" mz="attr0">Tố chất tấn công:</string>
+  <string name="bwes94wune9a1-n27_jqan-cp-title" mz="attr1">Tố chất phòng thủ:</string>
+  <string name="bwes94wune9a1-n28_jqan-cp-title" mz="attr2">Tố chất sống:</string>
+  <string name="bwes94wune9a1-n29_jqan-cp-title" mz="attr3">Tăng trưởng:</string>
+  <string name="bwes94wune9a1-n10_ne9a" mz="btnSure">Rửa luyện</string>
+  <string name="bwes94wune9a1-n12_ne9a" mz="n12">Tự động mua</string>
+  <string name="bwes94wune9a1-n14_ne9a" mz="n14">Biến đổi xác suất rửa luyện; Có thể quay lại thông qua [Cải tạo] → [Đặt lại] để rửa lại</string>
+  <!-- PetTrain/UpLevelPanel.xml -->
+  <string name="bwes94wujqanl-n3_ne9a" mz="n3">Nâng cấp thú cưng</string>
+  <string name="bwes94wujqanl-n7_ne9a" mz="n7">Kinh nghiệm thú cưng:</string>
+  <string name="bwes94wujqanl-n8_ne9a" mz="n8">Chọn vật phẩm:</string>
+  <string name="bwes94wujqanl-n14_ne9a" mz="btnOne">Sử dụng một lần</string>
+  <string name="bwes94wujqanl-n15_ne9a" mz="btnAll">Sử dụng nhanh</string>
+  <string name="bwes94wujqanl-n21_jqan" mz="n21">Tiếp tục nâng cấp sau khi chuyển sinh,</string>
+  <string name="bwes94wujqanl-n22_jqan" mz="btnGet">　Đến chuyển sinh</string>
+  <!-- PetTrain/components/BtnGet.xml -->
+  <string name="bwes94wujqanh-n3_w0dr" mz="title">　Cách lấy</string>
+  <!-- PetTrain/components/PetNameItem.xml -->
+  <string name="bwes94wuer6kx-n33_w0dr" mz="level">5 chuyển sinh lv12</string>
+  <string name="bwes94wuer6kx-n34_w0dr" mz="name">Bôbô (đơn)</string>
+  <!-- PetTrain/components/TrainStuffItem.xml -->
+  <string name="bwes94wupscoz-n9_ne9a" mz="itemNum">Có 2/1</string>
+  <!-- PetTrain/components/UpLevelStuffItem.xml -->
+  <string name="bwes94wuc67ts-n9_c67t" mz="addExp">Kinh nghiệm*50</string>
+  <!-- PetTunShiQuick/TunShiQuickView.xml -->
+  <string name="dadu9k3vkasg0-n1_kasg" mz="btnOK">Xác nhận</string>
+  <string name="dadu9k3vkasg0-n15_kasg" mz="n15">Thao tác hàng loạt tất cả thú cưng thường, tinh anh, sử thi hiện tại đã nuốt</string>
+  <!-- PetTunShiSure/TunShiSureView.xml -->
+  <string name="d5f71gskkasg1-n5_kasg" mz="btnCancel">Hủy bỏ</string>
+  <string name="d5f71gskkasg1-n6_kasg" mz="btnOK">Xác nhận</string>
+  <string name="d5f71gskkasg1-n19_kasg" mz="n19">Tiêu hao vật liệu</string>
+  <!-- Role/RolePanel.xml -->
+  <string name="jdaharphhnwtv-n133_c8hn-0" mz="Equip">Vũ khí</string>
+  <string name="jdaharphhnwtv-n133_c8hn-1" mz="Equip">Bảo vệ vai</string>
+  <string name="jdaharphhnwtv-n133_c8hn-2" mz="Equip">Bảo vệ cổ tay</string>
+  <string name="jdaharphhnwtv-n133_c8hn-3" mz="Equip">Dây chuyền</string>
+  <string name="jdaharphhnwtv-n133_c8hn-4" mz="Equip">Nhẫn</string>
+  <string name="jdaharphhnwtv-n133_c8hn-5" mz="Equip">Mũ bảo hiểm</string>
+  <string name="jdaharphhnwtv-n133_c8hn-6" mz="Equip">Áo</string>
+  <string name="jdaharphhnwtv-n133_c8hn-7" mz="Equip">Thắt lưng</string>
+  <string name="jdaharphhnwtv-n133_c8hn-8" mz="Equip">Quần dài</string>
+  <string name="jdaharphhnwtv-n133_c8hn-9" mz="Equip">Giày</string>
+  <string name="jdaharphhnwtv-n126_a12e-0" mz="IconList">Danh hiệu</string>
+  <string name="jdaharphhnwtv-n126_a12e-1" mz="IconList">Trang phục thời trang</string>
+  <string name="jdaharphhnwtv-n126_a12e-2" mz="IconList">Trang phục tiên</string>
+  <string name="jdaharphhnwtv-n126_a12e-3" mz="IconList">Thuốc linh</string>
+  <string name="jdaharphhnwtv-n126_a12e-4" mz="IconList">Hồn kiếm</string>
+  <string name="jdaharphhnwtv-n115_c5ho" mz="JewelryItem0">Tinh linh</string>
+  <string name="jdaharphhnwtv-n111_c5ho" mz="JewelryItem1">Thánh chính</string>
+  <string name="jdaharphhnwtv-n145_fipt" mz="JewelryItem2">Nhẫn hôn nhân</string>
+  <string name="jdaharphhnwtv-n146_fipt" mz="JewelryItem3">Đèn thần</string>
+  <string name="jdaharphhnwtv-n142_fipt" mz="BtnChange">Thay trang phục nhanh</string>
+  <!-- Role/RoleSkillPanel.xml -->
+  <string name="jdaharphgete21-n46_sgid" mz="BtnOneKey">Nâng cấp nhanh</string>
+  <string name="jdaharphgete21-n47_sgid" mz="BtnUpgrade">Nâng cấp</string>
+  <string name="jdaharphgete21-n43_ihkz" mz="LimitLevel">Mở khoá khi cấp độ nhân vật đạt 20</string>
+  <string name="jdaharphgete21-n50_sgid-0" mz="SkillList">Kỹ năng</string>
+  <string name="jdaharphgete21-n50_sgid-1" mz="SkillList">Thuật tiên</string>
+  <string name="jdaharphgete21-n50_sgid-2" mz="SkillList">Tài năng</string>
+  <string name="jdaharphgete21-n50_sgid-3" mz="SkillList">Tu luyện thân thể</string>
+  <!-- Role/components/ButtonIcon.xml -->
+  <string name="jdaharphhnwt19-n1_hnwt" mz="title">Danh hiệu</string>
+  <!-- Role/components/JewelryItem.xml -->
+  <string name="jdaharphc5ho1k-n3_c5ho" mz="title">Tinh linh</string>
+  <!-- Role/components/RoleWinBtnItem.xml -->
+  <string name="jdaharphfipt2u-n1_fipt" mz="title">Bộ trang phục vua</string>
+  <!-- RoleAttribute/RoleAttributeView.xml -->
+  <string name="2jicp5h0kxuc1q-n3_kxuc" mz="n3">Thuộc tính cơ bản</string>
+  <string name="2jicp5h0kxuc1q-n7_kxuc" mz="n7">Thuộc tính đặc biệt</string>
+  <string name="2jicp5h0kxuc1q-n15_ctde-0" mz="BaseAttrList">Cấp độ: 32</string>
+  <string name="2jicp5h0kxuc1q-n15_ctde-1" mz="BaseAttrList">Sinh mệnh: 32</string>
+  <string name="2jicp5h0kxuc1q-n15_ctde-2" mz="BaseAttrList">Tấn công: 32</string>
+  <string name="2jicp5h0kxuc1q-n15_ctde-3" mz="BaseAttrList">Phòng thủ: 32</string>
+  <!-- RoleAttribute/components/RoleAttributeItem.xml -->
+  <string name="2jicp5h0kxuc1t-n0_kxuc" mz="title">Cấp độ: Cấp 32</string>
+  <!-- SelectServer/ServerSelectView.xml -->
+  <string name="zriuspr6q0s10-n1_q0s1" mz="text">Chọn máy chủ</string>
+  <!-- SelectServer/components/ServerItem.xml -->
+  <string name="zriuspr6q0s1l-n8_q0s1" mz="name">Tên</string>
+  <!-- TipsPopup/TipsPopupView.xml -->
+  <string name="iprivtm2hixd0-n3_hixd" mz="title">Hướng dẫn chơi</string>
+  <!-- Title/TitlePanel.xml -->
+  <string name="1u8fbgxul8no2s-n139_l8no" mz="BtnUpgrade">Nâng cấp</string>
+  <string name="1u8fbgxul8no2s-n153_l8no" mz="GetWay">Nguồn: Sự kiện vận hành</string>
+  <!-- Title/components/TitleItem.xml -->
+  <string name="1u8fbgxuopqn2u-n3_opqn" mz="n3">Độ hiếm:</string>
+  <string name="1u8fbgxuopqn2u-n4_opqn" mz="n4">Sức chiến đấu:</string>
+  <string name="1u8fbgxuopqn2u-n5_opqn" mz="n5">Thời gian:</string>
+  <string name="1u8fbgxuopqn2u-n11_opqn" mz="label">Đang sử dụng</string>
+  <!-- TitleGet/TitleGetView.xml -->
+  <string name="m9yxnlngopqn2e-n78_opqn" mz="n78">Chúc mừng bạn đã nhận danh hiệu mới</string>
+  <string name="m9yxnlngopqn2e-n79_opqn" mz="n79">Nhấn vào khu vực trống để đóng</string>
+  <!-- TopLayer/components/BtnGM.xml -->
+  <string name="wtoeu39ms4yw1-n3_s4yw" mz="title">GM</string>
+  <!-- TopLayer/components/GMCmdItem.xml -->
+  <string name="wtoeu39mh7xwg-n26_h7xw" mz="BtnTest">Kiểm tra</string>
+  <string name="wtoeu39mh7xwg-n22_h7xw" mz="BtnSend">Gửi GM</string>
+  <!-- Vip/SvipPanel.xml -->
+  <string name="0c2nwn9jieza15-n5_ieza" mz="n5">VIP</string>
+  <string name="0c2nwn9jieza15-n8_ieza" mz="top_btn_recharge">Đi đến nạp tiền</string>
+  <string name="0c2nwn9jieza15-n16_ieza" mz="tequan_desc">Số lần mua săn tiên lâm tăng lên: 1 lần</string>
+  <string name="0c2nwn9jieza15-n18_ieza" mz="show_name">Kiếm thần Duy Thiên</string>
+  <string name="0c2nwn9jieza15-n37_ieza" mz="btn_daily_gift">Gói quà hàng ngày</string>
+  <string name="0c2nwn9jieza15-n38_ieza" mz="btn_zhekou">Chiết khấu SVIP</string>
+  <!-- Vip/VipPanel.xml -->
+  <string name="0c2nwn9jiezaj-n7_ieza" mz="n7">VIP</string>
+  <string name="0c2nwn9jiezaj-n12_ieza" mz="top_btn_recharge">Đi đến nạp tiền</string>
+  <string name="0c2nwn9jiezaj-n20_ieza" mz="tequan_desc">Số lần mua săn tiên lâm tăng lên: 1 lần</string>
+  <string name="0c2nwn9jiezaj-n22_ieza" mz="show_name">Kiếm thần Duy Thiên</string>
+  <string name="0c2nwn9jiezaj-n36_ieza" mz="next_vip_tip">Có thể nhận qua đạt được 5 điểm</string>
+  <string name="0c2nwn9jiezaj-n42_ieza" mz="btn_lingqu">Nhận thưởng</string>
+  <!-- VipProvilege/VipPrivilegeDetails.xml -->
+  <string name="0916s9miiezax-n9_ieza" mz="n9">Chi tiết quyền lợi</string>
+  <!-- VipProvilege/VipShuoMingCell.xml -->
+  <string name="0916s9miieza12-n0_ieza" mz="times">12 lần</string>
+  <string name="0916s9miieza12-n3_ieza" mz="desc">Hướng dẫn chơi Hướng dẫn chơi Cách chơi:</string>
+  <string name="0916s9miieza12-n5_ieza" mz="n5">Nâng cấp</string>
+  <string name="0916s9miieza12-n8_ieza" mz="n8">Mới thêm</string>
+  <!-- ZhuLing/ZhuLingView.xml -->
+  <string name="jvwej3lojdfs1-n4_jdfs" mz="n4">Giá trị linh hóa:</string>
+  <string name="jvwej3lojdfs1-n6_jdfs" mz="n6">Tiêu hao linh hóa:</string>
+  <string name="jvwej3lojdfs1-n10_jdfs" mz="ButtonZhuLing">Linh hóa nhanh</string>
+  <string name="jvwej3lojdfs1-n15_jdfs" mz="title">Linh hóa LV.0</string>
+  <string name="jvwej3lojdfs1-n26_parv" mz="maxLevelTextFlag">Đã là cấp độ tối đa</string>
+  <!-- ZhuLing/components/ZhuLingAttr.xml -->
+  <string name="jvwej3lojdfs4-n2_jdfs" mz="attrName">Sinh mệnh</string>
+</resources>

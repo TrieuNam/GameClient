@@ -1,0 +1,20 @@
+
+10001.png
+size: 64,64
+format: RGBA4444
+filter: Nearest,Nearest
+repeat: xy
+youtui-1
+  rotate: false
+  xy: 0, 22
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+zuotui-1
+  rotate: false
+  xy: 32, 23
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1

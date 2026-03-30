@@ -1,0 +1,55 @@
+
+10008.png
+size: 256,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+shjenti
+  rotate: true
+  xy: 153, 114
+  size: 140, 94
+  orig: 140, 94
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 130, 49
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 0, 117
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 189, 55
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 81, 118
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 0, 185
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1

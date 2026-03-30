@@ -1,0 +1,27 @@
+
+sp_box8.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+baoxiangH1
+  rotate: true
+  xy: 287, 63
+  size: 433, 195
+  orig: 433, 195
+  offset: 0, 0
+  index: -1
+baoxiangH2
+  rotate: true
+  xy: 0, 0
+  size: 496, 285
+  orig: 496, 285
+  offset: 0, 0
+  index: -1
+baoxiangH3
+  rotate: true
+  xy: 484, 108
+  size: 388, 234
+  orig: 388, 234
+  offset: 0, 0
+  index: -1

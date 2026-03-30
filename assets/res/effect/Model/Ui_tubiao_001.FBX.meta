@@ -1,0 +1,79 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5d2716c1-6a37-4e64-9456-733f9fe4071f",
+  "files": [],
+  "subMetas": {
+    "d5aff": {
+      "importer": "gltf-mesh",
+      "uuid": "5d2716c1-6a37-4e64-9456-733f9fe4071f@d5aff",
+      "displayName": "",
+      "id": "d5aff",
+      "name": "_UI_tubiao_001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98acd": {
+      "importer": "gltf-material",
+      "uuid": "5d2716c1-6a37-4e64-9456-733f9fe4071f@98acd",
+      "displayName": "",
+      "id": "98acd",
+      "name": "_12312321323213lambert5SG.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "824c9": {
+      "importer": "gltf-scene",
+      "uuid": "5d2716c1-6a37-4e64-9456-733f9fe4071f@824c9",
+      "displayName": "",
+      "id": "824c9",
+      "name": "Ui_tubiao_001.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5d2716c1-6a37-4e64-9456-733f9fe4071f@824c9",
+    "assetFinder": {
+      "meshes": [
+        "5d2716c1-6a37-4e64-9456-733f9fe4071f@d5aff"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5d2716c1-6a37-4e64-9456-733f9fe4071f@98acd"
+      ],
+      "scenes": [
+        "5d2716c1-6a37-4e64-9456-733f9fe4071f@824c9"
+      ]
+    }
+  }
+}

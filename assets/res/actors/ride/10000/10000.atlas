@@ -1,0 +1,62 @@
+
+10000.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+mabozi
+  rotate: true
+  xy: 115, 158
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+matou
+  rotate: false
+  xy: 115, 78
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: true
+  xy: 0, 74
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 156
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 0, 0
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 61, 83
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy: 103, 44
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 61, 22
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1

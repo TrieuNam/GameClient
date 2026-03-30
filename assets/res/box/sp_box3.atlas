@@ -1,0 +1,27 @@
+
+sp_box3.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+baoxiangC1
+  rotate: true
+  xy: 240, 40
+  size: 380, 184
+  orig: 380, 184
+  offset: 0, 0
+  index: -1
+baoxiangC2
+  rotate: true
+  xy: 0, 0
+  size: 420, 238
+  orig: 420, 238
+  offset: 0, 0
+  index: -1
+baoxiangC3
+  rotate: true
+  xy: 426, 102
+  size: 318, 198
+  orig: 318, 198
+  offset: 0, 0
+  index: -1

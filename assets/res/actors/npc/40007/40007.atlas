@@ -1,0 +1,90 @@
+
+40007.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+cao
+  rotate: false
+  xy: 201, 110
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+naio
+  rotate: true
+  xy: 380, 217
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+niaomao
+  rotate: true
+  xy: 266, 201
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 108
+  size: 200, 207
+  orig: 200, 207
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 0, 0
+  size: 107, 174
+  orig: 107, 174
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 175, 3
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 266, 122
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+touxiaba
+  rotate: false
+  xy: 294, 258
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 201, 229
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 201, 144
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 328, 52
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 294, 185
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1

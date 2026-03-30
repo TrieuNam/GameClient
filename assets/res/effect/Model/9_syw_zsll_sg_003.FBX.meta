@@ -1,0 +1,61 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "277fb67c-1998-4773-944f-b3dab25edf88",
+  "files": [],
+  "subMetas": {
+    "94d32": {
+      "importer": "gltf-mesh",
+      "uuid": "277fb67c-1998-4773-944f-b3dab25edf88@94d32",
+      "displayName": "",
+      "id": "94d32",
+      "name": "Shape7.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eac6f": {
+      "importer": "gltf-scene",
+      "uuid": "277fb67c-1998-4773-944f-b3dab25edf88@eac6f",
+      "displayName": "",
+      "id": "eac6f",
+      "name": "9_syw_zsll_sg_003.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "277fb67c-1998-4773-944f-b3dab25edf88@eac6f",
+    "assetFinder": {
+      "meshes": [
+        "277fb67c-1998-4773-944f-b3dab25edf88@94d32"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "277fb67c-1998-4773-944f-b3dab25edf88@eac6f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+sp_box6.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: xy
+baoxiangF1
+  rotate: true
+  xy: 258, 56
+  size: 356, 182
+  orig: 356, 182
+  offset: 0, 0
+  index: -1
+baoxiangF2
+  rotate: true
+  xy: 0, 0
+  size: 412, 256
+  orig: 412, 256
+  offset: 0, 0
+  index: -1
+baoxiangF3
+  rotate: true
+  xy: 442, 75
+  size: 337, 224
+  orig: 337, 224
+  offset: 0, 0
+  index: -1

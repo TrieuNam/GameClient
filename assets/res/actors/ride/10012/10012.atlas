@@ -1,0 +1,76 @@
+
+10012.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+chibang
+  rotate: false
+  xy: 0, 322
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+mabian
+  rotate: false
+  xy: 157, 311
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+mabozi
+  rotate: false
+  xy: 81, 402
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+matou
+  rotate: false
+  xy: 222, 291
+  size: 143, 105
+  orig: 143, 105
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: false
+  xy: 197, 400
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 355, 398
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 316, 399
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 152, 401
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 45, 410
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 0, 413
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
