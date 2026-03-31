@@ -110,9 +110,13 @@ class AssetValidator:
             # Check 7: Check for anti-aliasing (not desired in pixel art)
             # This is a simplified check - looks for semi-transparent pixels
             if img.mode == 'RGBA':
-                pixels = list(img.getdata())
-                semi_transparent = sum(1 for p in pixels if 0 < p[3] < 255)
-                semi_transparent_ratio = semi_transparent / len(pixels) if pixels else 0
+                # Use tobytes() instead of deprecated getdata()
+                import numpy as np
+                pixels_array = np.array(img)
+                alpha_channel = pixels_array[:, :, 3]
+                semi_transparent = np.sum((alpha_channel > 0) & (alpha_channel < 255))
+                total_pixels = alpha_channel.size
+                semi_transparent_ratio = semi_transparent / total_pixels if total_pixels > 0 else 0
 
                 if semi_transparent_ratio > 0.05:  # More than 5% semi-transparent
                     result['warnings'].append(f"Possible anti-aliasing detected ({semi_transparent_ratio*100:.1f}% semi-transparent pixels)")
