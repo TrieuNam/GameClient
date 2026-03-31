@@ -1,0 +1,2010 @@
+{
+  "timestamp": "2026-03-31T04:23:31.087261",
+  "settings": {
+    "target_size": 64,
+    "num_colors": 32,
+    "backup": true
+  },
+  "conversions": [
+    {
+      "input": "assets/resources/actors/armor/2003/2003_3.png",
+      "output": "assets/resources/actors/armor/2003/2003_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1857,
+      "converted_file_size": 1857,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2003/2003_1.png",
+      "output": "assets/resources/actors/armor/2003/2003_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2913,
+      "converted_file_size": 2913,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2003/2003_5.png",
+      "output": "assets/resources/actors/armor/2003/2003_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1603,
+      "converted_file_size": 1603,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2003/2003_2.png",
+      "output": "assets/resources/actors/armor/2003/2003_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2685,
+      "converted_file_size": 2685,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2003/2003_4.png",
+      "output": "assets/resources/actors/armor/2003/2003_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1241,
+      "converted_file_size": 1241,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2010/2010_3.png",
+      "output": "assets/resources/actors/armor/2010/2010_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1656,
+      "converted_file_size": 1656,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2010/2010_1.png",
+      "output": "assets/resources/actors/armor/2010/2010_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3501,
+      "converted_file_size": 3501,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2010/2010_5.png",
+      "output": "assets/resources/actors/armor/2010/2010_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1558,
+      "converted_file_size": 1558,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2010/2010_2.png",
+      "output": "assets/resources/actors/armor/2010/2010_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1879,
+      "converted_file_size": 1879,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2010/2010_4.png",
+      "output": "assets/resources/actors/armor/2010/2010_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1298,
+      "converted_file_size": 1298,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2004/2004_3.png",
+      "output": "assets/resources/actors/armor/2004/2004_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1133,
+      "converted_file_size": 1133,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2004/2004_2.png",
+      "output": "assets/resources/actors/armor/2004/2004_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2168,
+      "converted_file_size": 2168,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2004/2004_5.png",
+      "output": "assets/resources/actors/armor/2004/2004_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1154,
+      "converted_file_size": 1154,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2004/2004_4.png",
+      "output": "assets/resources/actors/armor/2004/2004_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 808,
+      "converted_file_size": 808,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2004/2004_1.png",
+      "output": "assets/resources/actors/armor/2004/2004_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3676,
+      "converted_file_size": 3676,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2013/2013_3.png",
+      "output": "assets/resources/actors/armor/2013/2013_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1537,
+      "converted_file_size": 1537,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2013/2013_2.png",
+      "output": "assets/resources/actors/armor/2013/2013_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1571,
+      "converted_file_size": 1571,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2013/2013_1.png",
+      "output": "assets/resources/actors/armor/2013/2013_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2026,
+      "converted_file_size": 2026,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2013/2013_5.png",
+      "output": "assets/resources/actors/armor/2013/2013_5.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1249,
+      "converted_file_size": 1249,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2013/2013_4.png",
+      "output": "assets/resources/actors/armor/2013/2013_4.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1335,
+      "converted_file_size": 1335,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000/2000_5.png",
+      "output": "assets/resources/actors/armor/2000/2000_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1277,
+      "converted_file_size": 1277,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000/2000_4.png",
+      "output": "assets/resources/actors/armor/2000/2000_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1116,
+      "converted_file_size": 1116,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000/2000_2.png",
+      "output": "assets/resources/actors/armor/2000/2000_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2064,
+      "converted_file_size": 2064,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000/2000_3.png",
+      "output": "assets/resources/actors/armor/2000/2000_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1890,
+      "converted_file_size": 1890,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000/2000_1.png",
+      "output": "assets/resources/actors/armor/2000/2000_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2156,
+      "converted_file_size": 2156,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2015/2015_1.png",
+      "output": "assets/resources/actors/armor/2015/2015_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2591,
+      "converted_file_size": 2591,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2015/2015_5.png",
+      "output": "assets/resources/actors/armor/2015/2015_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1277,
+      "converted_file_size": 1277,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2015/2015_4.png",
+      "output": "assets/resources/actors/armor/2015/2015_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1090,
+      "converted_file_size": 1090,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2015/2015_3.png",
+      "output": "assets/resources/actors/armor/2015/2015_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 2179,
+      "converted_file_size": 2179,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2015/2015_2.png",
+      "output": "assets/resources/actors/armor/2015/2015_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 3523,
+      "converted_file_size": 3523,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2007/2007_4.png",
+      "output": "assets/resources/actors/armor/2007/2007_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1506,
+      "converted_file_size": 1506,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2007/2007_5.png",
+      "output": "assets/resources/actors/armor/2007/2007_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1544,
+      "converted_file_size": 1544,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2007/2007_3.png",
+      "output": "assets/resources/actors/armor/2007/2007_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1572,
+      "converted_file_size": 1572,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2007/2007_1.png",
+      "output": "assets/resources/actors/armor/2007/2007_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 1904,
+      "converted_file_size": 1904,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2007/2007_2.png",
+      "output": "assets/resources/actors/armor/2007/2007_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1409,
+      "converted_file_size": 1409,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2018/2018_3.png",
+      "output": "assets/resources/actors/armor/2018/2018_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1402,
+      "converted_file_size": 1402,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2018/2018_4.png",
+      "output": "assets/resources/actors/armor/2018/2018_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1737,
+      "converted_file_size": 1737,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2018/2018_1.png",
+      "output": "assets/resources/actors/armor/2018/2018_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3029,
+      "converted_file_size": 3029,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2018/2018_5.png",
+      "output": "assets/resources/actors/armor/2018/2018_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 2211,
+      "converted_file_size": 2211,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2018/2018_2.png",
+      "output": "assets/resources/actors/armor/2018/2018_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1832,
+      "converted_file_size": 1832,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2005/2005_4.png",
+      "output": "assets/resources/actors/armor/2005/2005_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1141,
+      "converted_file_size": 1141,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2005/2005_5.png",
+      "output": "assets/resources/actors/armor/2005/2005_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1532,
+      "converted_file_size": 1532,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2005/2005_2.png",
+      "output": "assets/resources/actors/armor/2005/2005_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1682,
+      "converted_file_size": 1682,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2005/2005_1.png",
+      "output": "assets/resources/actors/armor/2005/2005_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2053,
+      "converted_file_size": 2053,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2005/2005_3.png",
+      "output": "assets/resources/actors/armor/2005/2005_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1382,
+      "converted_file_size": 1382,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2006/2006_2.png",
+      "output": "assets/resources/actors/armor/2006/2006_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1399,
+      "converted_file_size": 1399,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2006/2006_1.png",
+      "output": "assets/resources/actors/armor/2006/2006_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3407,
+      "converted_file_size": 3407,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2006/2006_5.png",
+      "output": "assets/resources/actors/armor/2006/2006_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1575,
+      "converted_file_size": 1575,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2006/2006_4.png",
+      "output": "assets/resources/actors/armor/2006/2006_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1335,
+      "converted_file_size": 1335,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2006/2006_3.png",
+      "output": "assets/resources/actors/armor/2006/2006_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1315,
+      "converted_file_size": 1315,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2002/2002_3.png",
+      "output": "assets/resources/actors/armor/2002/2002_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1430,
+      "converted_file_size": 1430,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2002/2002_1.png",
+      "output": "assets/resources/actors/armor/2002/2002_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2661,
+      "converted_file_size": 2661,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2002/2002_5.png",
+      "output": "assets/resources/actors/armor/2002/2002_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1614,
+      "converted_file_size": 1614,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2002/2002_4.png",
+      "output": "assets/resources/actors/armor/2002/2002_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1487,
+      "converted_file_size": 1487,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2002/2002_2.png",
+      "output": "assets/resources/actors/armor/2002/2002_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2225,
+      "converted_file_size": 2225,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2008/2008_3.png",
+      "output": "assets/resources/actors/armor/2008/2008_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1900,
+      "converted_file_size": 1900,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2008/2008_1.png",
+      "output": "assets/resources/actors/armor/2008/2008_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2992,
+      "converted_file_size": 2992,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2008/2008_2.png",
+      "output": "assets/resources/actors/armor/2008/2008_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2386,
+      "converted_file_size": 2386,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2008/2008_5.png",
+      "output": "assets/resources/actors/armor/2008/2008_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1803,
+      "converted_file_size": 1803,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2008/2008_4.png",
+      "output": "assets/resources/actors/armor/2008/2008_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1223,
+      "converted_file_size": 1223,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2011/2011_2.png",
+      "output": "assets/resources/actors/armor/2011/2011_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2520,
+      "converted_file_size": 2520,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2011/2011_4.png",
+      "output": "assets/resources/actors/armor/2011/2011_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1641,
+      "converted_file_size": 1641,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2011/2011_3.png",
+      "output": "assets/resources/actors/armor/2011/2011_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 2065,
+      "converted_file_size": 2065,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2011/2011_1.png",
+      "output": "assets/resources/actors/armor/2011/2011_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3232,
+      "converted_file_size": 3232,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2011/2011_5.png",
+      "output": "assets/resources/actors/armor/2011/2011_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 2032,
+      "converted_file_size": 2032,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2012/2012_2.png",
+      "output": "assets/resources/actors/armor/2012/2012_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1737,
+      "converted_file_size": 1737,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2012/2012_4.png",
+      "output": "assets/resources/actors/armor/2012/2012_4.png",
+      "original_size": [
+        28,
+        37
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1462,
+      "converted_file_size": 1462,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2012/2012_5.png",
+      "output": "assets/resources/actors/armor/2012/2012_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1623,
+      "converted_file_size": 1623,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2012/2012_1.png",
+      "output": "assets/resources/actors/armor/2012/2012_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2353,
+      "converted_file_size": 2353,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2012/2012_3.png",
+      "output": "assets/resources/actors/armor/2012/2012_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1371,
+      "converted_file_size": 1371,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2001/2001_5.png",
+      "output": "assets/resources/actors/armor/2001/2001_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1231,
+      "converted_file_size": 1231,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2001/2001_1.png",
+      "output": "assets/resources/actors/armor/2001/2001_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2710,
+      "converted_file_size": 2710,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2001/2001_3.png",
+      "output": "assets/resources/actors/armor/2001/2001_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 2171,
+      "converted_file_size": 2171,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2001/2001_4.png",
+      "output": "assets/resources/actors/armor/2001/2001_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 967,
+      "converted_file_size": 967,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2001/2001_2.png",
+      "output": "assets/resources/actors/armor/2001/2001_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2673,
+      "converted_file_size": 2673,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000-backup/2000_5.png",
+      "output": "assets/resources/actors/armor/2000-backup/2000_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1277,
+      "converted_file_size": 1277,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000-backup/2000_4.png",
+      "output": "assets/resources/actors/armor/2000-backup/2000_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1116,
+      "converted_file_size": 1116,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000-backup/2000_2.png",
+      "output": "assets/resources/actors/armor/2000-backup/2000_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2064,
+      "converted_file_size": 2064,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000-backup/2000_3.png",
+      "output": "assets/resources/actors/armor/2000-backup/2000_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1890,
+      "converted_file_size": 1890,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2000-backup/2000_1.png",
+      "output": "assets/resources/actors/armor/2000-backup/2000_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2156,
+      "converted_file_size": 2156,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2017/2017_3.png",
+      "output": "assets/resources/actors/armor/2017/2017_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1559,
+      "converted_file_size": 1559,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2017/2017_1.png",
+      "output": "assets/resources/actors/armor/2017/2017_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2632,
+      "converted_file_size": 2632,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2017/2017_2.png",
+      "output": "assets/resources/actors/armor/2017/2017_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2059,
+      "converted_file_size": 2059,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2017/2017_4.png",
+      "output": "assets/resources/actors/armor/2017/2017_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1378,
+      "converted_file_size": 1378,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2017/2017_5.png",
+      "output": "assets/resources/actors/armor/2017/2017_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1651,
+      "converted_file_size": 1651,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2014/2014_5.png",
+      "output": "assets/resources/actors/armor/2014/2014_5.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1496,
+      "converted_file_size": 1496,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2014/2014_3.png",
+      "output": "assets/resources/actors/armor/2014/2014_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1465,
+      "converted_file_size": 1465,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2014/2014_2.png",
+      "output": "assets/resources/actors/armor/2014/2014_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 2247,
+      "converted_file_size": 2247,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2014/2014_1.png",
+      "output": "assets/resources/actors/armor/2014/2014_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3936,
+      "converted_file_size": 3936,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2014/2014_4.png",
+      "output": "assets/resources/actors/armor/2014/2014_4.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1936,
+      "converted_file_size": 1936,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2009/2009_1.png",
+      "output": "assets/resources/actors/armor/2009/2009_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3507,
+      "converted_file_size": 3507,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2009/2009_3.png",
+      "output": "assets/resources/actors/armor/2009/2009_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1151,
+      "converted_file_size": 1151,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2009/2009_2.png",
+      "output": "assets/resources/actors/armor/2009/2009_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1163,
+      "converted_file_size": 1163,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2009/2009_4.png",
+      "output": "assets/resources/actors/armor/2009/2009_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1469,
+      "converted_file_size": 1469,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2009/2009_5.png",
+      "output": "assets/resources/actors/armor/2009/2009_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1797,
+      "converted_file_size": 1797,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2016/2016_2.png",
+      "output": "assets/resources/actors/armor/2016/2016_2.png",
+      "original_size": [
+        35,
+        45
+      ],
+      "pixel_size": [
+        49,
+        64
+      ],
+      "final_size": [
+        49,
+        64
+      ],
+      "original_file_size": 1948,
+      "converted_file_size": 1948,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2016/2016_1.png",
+      "output": "assets/resources/actors/armor/2016/2016_1.png",
+      "original_size": [
+        90,
+        90
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 2587,
+      "converted_file_size": 2587,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2016/2016_3.png",
+      "output": "assets/resources/actors/armor/2016/2016_3.png",
+      "original_size": [
+        25,
+        40
+      ],
+      "pixel_size": [
+        40,
+        64
+      ],
+      "final_size": [
+        40,
+        64
+      ],
+      "original_file_size": 1606,
+      "converted_file_size": 1606,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2016/2016_5.png",
+      "output": "assets/resources/actors/armor/2016/2016_5.png",
+      "original_size": [
+        30,
+        37
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        51,
+        64
+      ],
+      "original_file_size": 1682,
+      "converted_file_size": 1682,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/armor/2016/2016_4.png",
+      "output": "assets/resources/actors/armor/2016/2016_4.png",
+      "original_size": [
+        27,
+        36
+      ],
+      "pixel_size": [
+        48,
+        64
+      ],
+      "final_size": [
+        48,
+        64
+      ],
+      "original_file_size": 1575,
+      "converted_file_size": 1575,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    }
+  ]
+}
