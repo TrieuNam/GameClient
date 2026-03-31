@@ -1,0 +1,770 @@
+{
+  "timestamp": "2026-03-31T04:23:38.374555",
+  "settings": {
+    "target_size": 64,
+    "num_colors": 32,
+    "backup": true
+  },
+  "conversions": [
+    {
+      "input": "assets/resources/actors/helmet/1012-1.png",
+      "output": "assets/resources/actors/helmet/1012-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4250,
+      "converted_file_size": 4250,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1012.png",
+      "output": "assets/resources/actors/helmet/1012.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4268,
+      "converted_file_size": 4268,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1002-1.png",
+      "output": "assets/resources/actors/helmet/1002-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3285,
+      "converted_file_size": 3285,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1010.png",
+      "output": "assets/resources/actors/helmet/1010.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3480,
+      "converted_file_size": 3480,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1003.png",
+      "output": "assets/resources/actors/helmet/1003.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3218,
+      "converted_file_size": 3218,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1004.png",
+      "output": "assets/resources/actors/helmet/1004.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3134,
+      "converted_file_size": 3134,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1014-1.png",
+      "output": "assets/resources/actors/helmet/1014-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3884,
+      "converted_file_size": 3884,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1007-1.png",
+      "output": "assets/resources/actors/helmet/1007-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3094,
+      "converted_file_size": 3094,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1005.png",
+      "output": "assets/resources/actors/helmet/1005.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3583,
+      "converted_file_size": 3583,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1007.png",
+      "output": "assets/resources/actors/helmet/1007.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3148,
+      "converted_file_size": 3148,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1016.png",
+      "output": "assets/resources/actors/helmet/1016.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3795,
+      "converted_file_size": 3795,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1011.png",
+      "output": "assets/resources/actors/helmet/1011.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3562,
+      "converted_file_size": 3562,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1000.png",
+      "output": "assets/resources/actors/helmet/1000.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 2829,
+      "converted_file_size": 2829,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1015.png",
+      "output": "assets/resources/actors/helmet/1015.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4263,
+      "converted_file_size": 4263,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1001-1.png",
+      "output": "assets/resources/actors/helmet/1001-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3594,
+      "converted_file_size": 3594,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1009.png",
+      "output": "assets/resources/actors/helmet/1009.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3249,
+      "converted_file_size": 3249,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1015-1.png",
+      "output": "assets/resources/actors/helmet/1015-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4238,
+      "converted_file_size": 4238,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1013-1.png",
+      "output": "assets/resources/actors/helmet/1013-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4056,
+      "converted_file_size": 4056,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1010-1.png",
+      "output": "assets/resources/actors/helmet/1010-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3474,
+      "converted_file_size": 3474,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1016-1.png",
+      "output": "assets/resources/actors/helmet/1016-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3781,
+      "converted_file_size": 3781,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1017-1.png",
+      "output": "assets/resources/actors/helmet/1017-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4018,
+      "converted_file_size": 4018,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1001.png",
+      "output": "assets/resources/actors/helmet/1001.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3658,
+      "converted_file_size": 3658,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1018-1.png",
+      "output": "assets/resources/actors/helmet/1018-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4658,
+      "converted_file_size": 4658,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1011-1.png",
+      "output": "assets/resources/actors/helmet/1011-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3559,
+      "converted_file_size": 3559,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1008.png",
+      "output": "assets/resources/actors/helmet/1008.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4024,
+      "converted_file_size": 4024,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1003-1.png",
+      "output": "assets/resources/actors/helmet/1003-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3196,
+      "converted_file_size": 3196,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1017.png",
+      "output": "assets/resources/actors/helmet/1017.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3917,
+      "converted_file_size": 3917,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1018.png",
+      "output": "assets/resources/actors/helmet/1018.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4732,
+      "converted_file_size": 4732,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1006-1.png",
+      "output": "assets/resources/actors/helmet/1006-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4388,
+      "converted_file_size": 4388,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1002.png",
+      "output": "assets/resources/actors/helmet/1002.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3399,
+      "converted_file_size": 3399,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1008-1.png",
+      "output": "assets/resources/actors/helmet/1008-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4022,
+      "converted_file_size": 4022,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1006.png",
+      "output": "assets/resources/actors/helmet/1006.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4375,
+      "converted_file_size": 4375,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1013.png",
+      "output": "assets/resources/actors/helmet/1013.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 4155,
+      "converted_file_size": 4155,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1000-1.png",
+      "output": "assets/resources/actors/helmet/1000-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 2792,
+      "converted_file_size": 2792,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1005-1.png",
+      "output": "assets/resources/actors/helmet/1005-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3576,
+      "converted_file_size": 3576,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1004-1.png",
+      "output": "assets/resources/actors/helmet/1004-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3133,
+      "converted_file_size": 3133,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1014.png",
+      "output": "assets/resources/actors/helmet/1014.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3978,
+      "converted_file_size": 3978,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/helmet/1009-1.png",
+      "output": "assets/resources/actors/helmet/1009-1.png",
+      "original_size": [
+        225,
+        175
+      ],
+      "pixel_size": [
+        64,
+        49
+      ],
+      "final_size": [
+        192,
+        147
+      ],
+      "original_file_size": 3225,
+      "converted_file_size": 3225,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    }
+  ]
+}

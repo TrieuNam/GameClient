@@ -1,0 +1,390 @@
+{
+  "timestamp": "2026-03-31T04:23:39.976691",
+  "settings": {
+    "target_size": 64,
+    "num_colors": 32,
+    "backup": true
+  },
+  "conversions": [
+    {
+      "input": "assets/resources/actors/shiled/3016.png",
+      "output": "assets/resources/actors/shiled/3016.png",
+      "original_size": [
+        125,
+        155
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        102,
+        128
+      ],
+      "original_file_size": 5575,
+      "converted_file_size": 5575,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3013.png",
+      "output": "assets/resources/actors/shiled/3013.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 6952,
+      "converted_file_size": 6952,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3007.png",
+      "output": "assets/resources/actors/shiled/3007.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 4628,
+      "converted_file_size": 4628,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3004.png",
+      "output": "assets/resources/actors/shiled/3004.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5186,
+      "converted_file_size": 5186,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3009.png",
+      "output": "assets/resources/actors/shiled/3009.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5706,
+      "converted_file_size": 5706,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3002.png",
+      "output": "assets/resources/actors/shiled/3002.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5089,
+      "converted_file_size": 5089,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3010.png",
+      "output": "assets/resources/actors/shiled/3010.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 6140,
+      "converted_file_size": 6140,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3000.png",
+      "output": "assets/resources/actors/shiled/3000.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 3608,
+      "converted_file_size": 3608,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3012.png",
+      "output": "assets/resources/actors/shiled/3012.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 6254,
+      "converted_file_size": 6254,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3011.png",
+      "output": "assets/resources/actors/shiled/3011.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 6101,
+      "converted_file_size": 6101,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3003.png",
+      "output": "assets/resources/actors/shiled/3003.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 4049,
+      "converted_file_size": 4049,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3015.png",
+      "output": "assets/resources/actors/shiled/3015.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 6589,
+      "converted_file_size": 6589,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3018.png",
+      "output": "assets/resources/actors/shiled/3018.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5055,
+      "converted_file_size": 5055,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3014.png",
+      "output": "assets/resources/actors/shiled/3014.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5500,
+      "converted_file_size": 5500,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3001.png",
+      "output": "assets/resources/actors/shiled/3001.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 5639,
+      "converted_file_size": 5639,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3008.png",
+      "output": "assets/resources/actors/shiled/3008.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 4792,
+      "converted_file_size": 4792,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3005.png",
+      "output": "assets/resources/actors/shiled/3005.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 4631,
+      "converted_file_size": 4631,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3017.png",
+      "output": "assets/resources/actors/shiled/3017.png",
+      "original_size": [
+        125,
+        155
+      ],
+      "pixel_size": [
+        51,
+        64
+      ],
+      "final_size": [
+        102,
+        128
+      ],
+      "original_file_size": 5671,
+      "converted_file_size": 5671,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/shiled/3006.png",
+      "output": "assets/resources/actors/shiled/3006.png",
+      "original_size": [
+        125,
+        125
+      ],
+      "pixel_size": [
+        64,
+        64
+      ],
+      "final_size": [
+        64,
+        64
+      ],
+      "original_file_size": 4848,
+      "converted_file_size": 4848,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    }
+  ]
+}

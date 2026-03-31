@@ -1,0 +1,410 @@
+{
+  "timestamp": "2026-03-31T04:23:15.678743",
+  "settings": {
+    "target_size": 64,
+    "num_colors": 32,
+    "backup": true
+  },
+  "conversions": [
+    {
+      "input": "assets/resources/actors/weapon/4001.png",
+      "output": "assets/resources/actors/weapon/4001.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2455,
+      "converted_file_size": 2455,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4004.png",
+      "output": "assets/resources/actors/weapon/4004.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2507,
+      "converted_file_size": 2507,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4010.png",
+      "output": "assets/resources/actors/weapon/4010.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2998,
+      "converted_file_size": 2998,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4999.png",
+      "output": "assets/resources/actors/weapon/4999.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2270,
+      "converted_file_size": 2270,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4003.png",
+      "output": "assets/resources/actors/weapon/4003.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2991,
+      "converted_file_size": 2991,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4015.png",
+      "output": "assets/resources/actors/weapon/4015.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2881,
+      "converted_file_size": 2881,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4007.png",
+      "output": "assets/resources/actors/weapon/4007.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2536,
+      "converted_file_size": 2536,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4017.png",
+      "output": "assets/resources/actors/weapon/4017.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 3560,
+      "converted_file_size": 3560,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4014.png",
+      "output": "assets/resources/actors/weapon/4014.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2306,
+      "converted_file_size": 2306,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4008.png",
+      "output": "assets/resources/actors/weapon/4008.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2825,
+      "converted_file_size": 2825,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4002.png",
+      "output": "assets/resources/actors/weapon/4002.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2059,
+      "converted_file_size": 2059,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4011.png",
+      "output": "assets/resources/actors/weapon/4011.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 3326,
+      "converted_file_size": 3326,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4018.png",
+      "output": "assets/resources/actors/weapon/4018.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2594,
+      "converted_file_size": 2594,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4009.png",
+      "output": "assets/resources/actors/weapon/4009.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2787,
+      "converted_file_size": 2787,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4005.png",
+      "output": "assets/resources/actors/weapon/4005.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2617,
+      "converted_file_size": 2617,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4016.png",
+      "output": "assets/resources/actors/weapon/4016.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 3190,
+      "converted_file_size": 3190,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4013.png",
+      "output": "assets/resources/actors/weapon/4013.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2703,
+      "converted_file_size": 2703,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4006.png",
+      "output": "assets/resources/actors/weapon/4006.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2640,
+      "converted_file_size": 2640,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4012.png",
+      "output": "assets/resources/actors/weapon/4012.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2494,
+      "converted_file_size": 2494,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    },
+    {
+      "input": "assets/resources/actors/weapon/4000.png",
+      "output": "assets/resources/actors/weapon/4000.png",
+      "original_size": [
+        140,
+        115
+      ],
+      "pixel_size": [
+        64,
+        52
+      ],
+      "final_size": [
+        128,
+        104
+      ],
+      "original_file_size": 2577,
+      "converted_file_size": 2577,
+      "compression_ratio": "0.0%",
+      "status": "success"
+    }
+  ]
+}
